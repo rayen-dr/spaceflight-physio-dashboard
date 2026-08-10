@@ -1,0 +1,37 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables / secrets
+.env
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Large / raw data (keep repo lightweight — raw data documented in data/README.md instead)
+data/raw/*.csv
+data/raw/*.xlsx
+!data/raw/.gitkeep
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Build artifacts
+*.log
+build/
+dist/
+*.egg-info/
