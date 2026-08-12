@@ -146,7 +146,7 @@ This project was completed as part of an internship at **TUNSA (Tunisian Space A
 
 **RAYEN KAROUS**
 2nd-Year Preparatory Engineering Student · Tunisia
-[LinkedIn](https://www.linkedin.com/in/rayen-karous) · [GitHub](https://github.com/rayen-dr) · [Email](mailto:karousfarouk@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rayen-karous-466853340?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [GitHub](https://github.com/rayen-dr) · [Email](mailto:karousfarouk@gmail.com)
 
 ## License
 
