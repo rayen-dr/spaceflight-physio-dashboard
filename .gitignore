@@ -23,8 +23,7 @@ Thumbs.db
 .idea/
 
 # Large / raw data (keep repo lightweight — raw data documented in data/README.md instead)
-data/raw/*.csv
-data/raw/*.xlsx
+
 !data/raw/.gitkeep
 
 # Jupyter
