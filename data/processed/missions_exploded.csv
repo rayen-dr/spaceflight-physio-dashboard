@@ -1,0 +1,1295 @@
+astronaut_name,country,mission_name,year,vehicle_type
+Gennady Padalka,Russia,Soyuz TM-28,1998,Soyuz
+Gennady Padalka,Russia,Soyuz TMA-4,2004,Soyuz
+Gennady Padalka,Russia,Soyuz TMA-14,2009,Soyuz
+Gennady Padalka,Russia,Soyuz TMA-04M,2012,Soyuz
+Gennady Padalka,Russia,Soyuz TMA-16M,2015,Soyuz
+Yuri Malenchenko,Russia,Soyuz TM-19,1994,Soyuz
+Yuri Malenchenko,Russia,STS-106,2000,Space Shuttle (STS)
+Yuri Malenchenko,Russia,Soyuz TMA-2,2003,Soyuz
+Yuri Malenchenko,Russia,Soyuz TMA-11,2007,Soyuz
+Yuri Malenchenko,Russia,Soyuz TMA-05M,2012,Soyuz
+Yuri Malenchenko,Russia,Soyuz TMA-19M,2015,Soyuz
+Sergei Krikalev,Russia,Soyuz TM-7,1988,Soyuz
+Sergei Krikalev,Russia,Soyuz TM-12,1991,Soyuz
+Sergei Krikalev,Russia,STS-60,1994,Space Shuttle (STS)
+Sergei Krikalev,Russia,STS-88,1998,Space Shuttle (STS)
+Sergei Krikalev,Russia,Soyuz TM-31,2000,Soyuz
+Sergei Krikalev,Russia,Soyuz TMA-6,2005,Soyuz
+Alexander Kaleri,Russia,Soyuz TM-14,1992,Soyuz
+Alexander Kaleri,Russia,Soyuz TM-24,1996,Soyuz
+Alexander Kaleri,Russia,Soyuz TM-30,2000,Soyuz
+Alexander Kaleri,Russia,Soyuz TMA-3,2003,Soyuz
+Alexander Kaleri,Russia,Soyuz TMA-01M,2010,Soyuz
+Oleg Kononenko,Russia,Soyuz TMA-12,2008,Soyuz
+Oleg Kononenko,Russia,Soyuz TMA-03M,2011,Soyuz
+Oleg Kononenko,Russia,Soyuz TMA-17M,2015,Soyuz
+Oleg Kononenko,Russia,Soyuz MS-11,2018,Soyuz
+Oleg Novitskiy,Russia,Soyuz TMA-06M,2012,Soyuz
+Oleg Novitskiy,Russia,Soyuz MS-03,2016,Soyuz
+Oleg Novitskiy,Russia,Soyuz MS-18,2021,Soyuz
+"Valeri Polyakov, M.D.",Russia,Soyuz TM-6,1988,Soyuz
+"Valeri Polyakov, M.D.",Russia,Soyuz TM-18,1994,Soyuz
+Fyodor Yurchikhin,Russia,STS-112,2002,Space Shuttle (STS)
+Fyodor Yurchikhin,Russia,Soyuz TMA-10,2007,Soyuz
+Fyodor Yurchikhin,Russia,Soyuz TMA-19,2010,Soyuz
+Fyodor Yurchikhin,Russia,Soyuz TMA-09M,2013,Soyuz
+Fyodor Yurchikhin,Russia,Soyuz MS-04,2017,Soyuz
+Peggy Whitson,United States,STS-111,2002,Space Shuttle (STS)
+Peggy Whitson,United States,Soyuz TMA-11,2007,Soyuz
+Peggy Whitson,United States,Soyuz MS-03,2016,Soyuz
+Anatoly Solovyev,Russia,Soyuz TM-5,1988,Soyuz
+Anatoly Solovyev,Russia,Soyuz TM-9,1990,Soyuz
+Anatoly Solovyev,Russia,Soyuz TM-15,1992,Soyuz
+Anatoly Solovyev,Russia,STS-71,1995,Space Shuttle (STS)
+Anatoly Solovyev,Russia,Soyuz TM-26,1997,Soyuz
+Viktor M. Afanasyev,Russia,Soyuz TM-11,1990,Soyuz
+Viktor M. Afanasyev,Russia,Soyuz TM-18,1994,Soyuz
+Viktor M. Afanasyev,Russia,Soyuz TM-29,1999,Soyuz
+Viktor M. Afanasyev,Russia,Soyuz TM-33,2001,Soyuz
+Yury Usachov,Russia,Soyuz TM-18,1994,Soyuz
+Yury Usachov,Russia,Soyuz TM-23,1996,Soyuz
+Yury Usachov,Russia,STS-101,2000,Space Shuttle (STS)
+Yury Usachov,Russia,STS-102,2001,Space Shuttle (STS)
+Sergey Volkov,Russia,Soyuz TMA-12,2008,Soyuz
+Sergey Volkov,Russia,Soyuz TMA-02M,2011,Soyuz
+Sergey Volkov,Russia,Soyuz TMA-18M,2015,Soyuz
+Pavel Vinogradov,Russia,Soyuz TM-26,1997,Soyuz
+Pavel Vinogradov,Russia,Soyuz TMA-8,2006,Soyuz
+Pavel Vinogradov,Russia,Soyuz TMA-08M,2013,Soyuz
+Aleksandr Skvortsov,Russia,Soyuz TMA-18,2010,Soyuz
+Aleksandr Skvortsov,Russia,Soyuz TMA-12M,2014,Soyuz
+Aleksandr Skvortsov,Russia,Soyuz MS-13,2019,Soyuz
+Musa Manarov,Soviet Union,Soyuz TM-4,1987,Soyuz
+Musa Manarov,Soviet Union,Soyuz TM-11,1990,Soyuz
+Oleg Skripochka,Russia,Soyuz TMA-01M,2010,Soyuz
+Oleg Skripochka,Russia,Soyuz TMA-20M,2016,Soyuz
+Oleg Skripochka,Russia,Soyuz MS-15,2019,Soyuz
+Jeffrey Williams,United States,STS-101,2000,Space Shuttle (STS)
+Jeffrey Williams,United States,Soyuz TMA-8,2006,Soyuz
+Jeffrey Williams,United States,Soyuz TMA-16,2009,Soyuz
+Jeffrey Williams,United States,Soyuz TMA-20M,2016,Soyuz
+Anton Shkaplerov,Russia,Soyuz TMA-22,2011,Soyuz
+Anton Shkaplerov,Russia,Soyuz TMA-15M,2014,Soyuz
+Anton Shkaplerov,Russia,Soyuz MS-07,2017,Soyuz
+Mikhail Tyurin,Russia,STS-105,2001,Space Shuttle (STS)
+Mikhail Tyurin,Russia,Soyuz TMA-9,2006,Soyuz
+Mikhail Tyurin,Russia,Soyuz TMA-11M,2013,Soyuz
+Thomas Pesquet,France,Soyuz MS-03,2016,Soyuz
+Thomas Pesquet,France,SpaceX Crew-2,2021,SpaceX Crew Dragon
+Oleg Kotov,Russia,Soyuz TMA-10,2007,Soyuz
+Oleg Kotov,Russia,Soyuz TMA-17,2009,Soyuz
+Oleg Kotov,Russia,Soyuz TMA-10M,2013,Soyuz
+Scott Kelly,United States,STS-103,1999,Space Shuttle (STS)
+Scott Kelly,United States,STS-118,2007,Space Shuttle (STS)
+Scott Kelly,United States,Soyuz TMA-01M,2010,Soyuz
+Scott Kelly,United States,Soyuz TMA-16M,2015,Soyuz
+Robert S. Kimbrough,United States,STS-126,2008,Space Shuttle (STS)
+Robert S. Kimbrough,United States,Soyuz MS-02,2016,Soyuz
+Robert S. Kimbrough,United States,SpaceX Crew-2,2021,SpaceX Crew Dragon
+Mikhail Korniyenko,Russia,Soyuz TMA-18,2010,Soyuz
+Mikhail Korniyenko,Russia,Soyuz TMA-16M,2015,Soyuz
+Mark Vande Hei,United States,Soyuz MS-06,2017,Soyuz
+Mark Vande Hei,United States,Soyuz MS-18,2021,Soyuz
+Alexander Viktorenko,Soviet Union,Soyuz TM-3,1987,Soyuz
+Alexander Viktorenko,Soviet Union,Soyuz TM-8,1989,Soyuz
+Alexander Viktorenko,Soviet Union,Soyuz TM-14,1992,Soyuz
+Alexander Viktorenko,Soviet Union,Soyuz TM-20,1994,Soyuz
+Anatoli Ivanishin,Russia,Soyuz TMA-22,2011,Soyuz
+Anatoli Ivanishin,Russia,Soyuz MS-01,2016,Soyuz
+Anatoli Ivanishin,Russia,Soyuz MS-16,2020,Soyuz
+Akihiko Hoshide,Japan,STS-124,2008,Space Shuttle (STS)
+Akihiko Hoshide,Japan,Soyuz TMA-05M,2012,Soyuz
+Akihiko Hoshide,Japan,SpaceX Crew-2,2021,SpaceX Crew Dragon
+Nikolai Budarin,Russia,STS-71,1995,Space Shuttle (STS)
+Nikolai Budarin,Russia,Soyuz TM-27,1998,Soyuz
+Nikolai Budarin,Russia,STS-113,2002,Space Shuttle (STS)
+Yuri Romanenko,Soviet Union,Soyuz 26,1977,Soyuz
+Yuri Romanenko,Soviet Union,Soyuz 38,1980,Soyuz
+Yuri Romanenko,Soviet Union,Soyuz TM-2,1987,Soyuz
+Alexander Volkov,Soviet Union,Soyuz T-14,1985,Soyuz
+Alexander Volkov,Soviet Union,Soyuz TM-7,1988,Soyuz
+Alexander Volkov,Soviet Union,Soyuz TM-13,1991,Soyuz
+Yuri Onufrienko,Russia,Soyuz TM-23,1996,Soyuz
+Yuri Onufrienko,Russia,STS-108,2001,Space Shuttle (STS)
+Vladimir Titov,Soviet Union,Soyuz T-8,1983,Soyuz
+Vladimir Titov,Soviet Union,Soyuz TM-4,1987,Soyuz
+Vladimir Titov,Soviet Union,STS-63,1995,Space Shuttle (STS)
+Vladimir Titov,Soviet Union,STS-86,1997,Space Shuttle (STS)
+Vasili Tsibliyev,Russia,Soyuz TM-17,1993,Soyuz
+Vasili Tsibliyev,Russia,Soyuz TM-25,1997,Soyuz
+Valery Korzun,Russia,Soyuz TM-24,1996,Soyuz
+Valery Korzun,Russia,STS-111,2002,Space Shuttle (STS)
+Michael Fincke,United States,Soyuz TMA-4,2004,Soyuz
+Michael Fincke,United States,Soyuz TMA-13,2008,Soyuz
+Michael Fincke,United States,STS-134,2011,Space Shuttle (STS)
+Christopher Cassidy,United States,STS-127,2009,Space Shuttle (STS)
+Christopher Cassidy,United States,Soyuz TMA-08M,2013,Soyuz
+Christopher Cassidy,United States,Soyuz MS-16,2020,Soyuz
+Aleksey Ovchinin,Russia,Soyuz TMA-20M,2016,Soyuz
+Aleksey Ovchinin,Russia,Soyuz MS-12,2019,Soyuz
+Leonid Kizim,Soviet Union,Soyuz T-3,1980,Soyuz
+Leonid Kizim,Soviet Union,Soyuz T-10,1984,Soyuz
+Leonid Kizim,Soviet Union,Soyuz T-15,1986,Soyuz
+Michael Foale,United Kingdom,STS-45,1992,Space Shuttle (STS)
+Michael Foale,United Kingdom,STS-56,1993,Space Shuttle (STS)
+Michael Foale,United Kingdom,STS-63,1995,Space Shuttle (STS)
+Michael Foale,United Kingdom,STS-84,1997,Space Shuttle (STS)
+Michael Foale,United Kingdom,STS-103,1999,Space Shuttle (STS)
+Michael Foale,United Kingdom,Soyuz TMA-3,2003,Soyuz
+Aleksandr Serebrov,Soviet Union,Soyuz T-7,1982,Soyuz
+Aleksandr Serebrov,Soviet Union,Soyuz T-8,1983,Soyuz
+Aleksandr Serebrov,Soviet Union,Soyuz TM-8,1989,Soyuz
+Aleksandr Serebrov,Soviet Union,Soyuz TM-17,1993,Soyuz
+Valery Ryumin,Soviet Union,Soyuz 25,1977,Soyuz
+Valery Ryumin,Soviet Union,Soyuz 32,1979,Soyuz
+Valery Ryumin,Soviet Union,Soyuz 35,1980,Soyuz
+Valery Ryumin,Soviet Union,STS-91,1998,Space Shuttle (STS)
+Donald Pettit,United States,STS-113,2002,Space Shuttle (STS)
+Donald Pettit,United States,STS-126,2008,Space Shuttle (STS)
+Donald Pettit,United States,Soyuz TMA-03M,2011,Soyuz
+Sergei Avdeyev,Russia,Soyuz TM-15,1992,Soyuz
+Sergei Avdeyev,Russia,Soyuz TM-22,1995,Soyuz
+Luca Parmitano,Italy,Soyuz TMA-09M,2013,Soyuz
+Luca Parmitano,Italy,Soyuz MS-13,2019,Soyuz
+Oleg Artemyev,Russia,Soyuz TMA-12M,2014,Soyuz
+Oleg Artemyev,Russia,Soyuz MS-08,2018,Soyuz
+Vladimir Solovyov,Soviet Union,Soyuz T-10,1984,Soyuz
+Vladimir Solovyov,Soviet Union,Soyuz T-15,1986,Soyuz
+Alexander Gerst,Germany,Soyuz TMA-13M,2014,Soyuz
+Alexander Gerst,Germany,Soyuz MS-09,2018,Soyuz
+Sergey Nikolayevich Ryzhikov,Russia,Soyuz MS-02,2016,Soyuz
+Sergey Nikolayevich Ryzhikov,Russia,Soyuz MS-17,2020,Soyuz
+Thomas Reiter,Germany,Soyuz TM-22,1995,Soyuz
+Thomas Reiter,Germany,STS-121,2006,Space Shuttle (STS)
+Koichi Wakata,Japan,STS-72,1996,Space Shuttle (STS)
+Koichi Wakata,Japan,STS-92,2000,Space Shuttle (STS)
+Koichi Wakata,Japan,STS-119,2009,Space Shuttle (STS)
+Koichi Wakata,Japan,Soyuz TMA-11M,2013,Soyuz
+Pyotr Dubrov,Russia,Soyuz MS-18,2021,Soyuz
+Soichi Noguchi,Japan,STS-114,2005,Space Shuttle (STS)
+Soichi Noguchi,Japan,Soyuz TMA-17,2009,Soyuz
+Soichi Noguchi,Japan,SpaceX Crew-1,2020,SpaceX Crew Dragon
+K. Megan McArthur,United States,STS-125,2009,Space Shuttle (STS)
+K. Megan McArthur,United States,SpaceX Crew-2,2021,SpaceX Crew Dragon
+Talgat Musabayev,Kazakhstan,Soyuz TM-19,1994,Soyuz
+Talgat Musabayev,Kazakhstan,Soyuz TM-27,1998,Soyuz
+Talgat Musabayev,Kazakhstan,Soyuz TM-32,2001,Soyuz
+Andrei Borisenko,Russia,Soyuz TMA-21,2011,Soyuz
+Andrei Borisenko,Russia,Soyuz MS-02,2016,Soyuz
+Maksim Surayev,Russia,Soyuz TMA-16,2009,Soyuz
+Maksim Surayev,Russia,Soyuz TMA-13M,2014,Soyuz
+Michael S. Hopkins,United States,Soyuz TMA-10M,2013,Soyuz
+Michael S. Hopkins,United States,SpaceX Crew-1,2020,SpaceX Crew Dragon
+Aleksandr Misurkin,Russia,Soyuz TMA-08M,2013,Soyuz
+Aleksandr Misurkin,Russia,Soyuz MS-06,2017,Soyuz
+Roman Romanenko,Russia,Soyuz TMA-15,2009,Soyuz
+Roman Romanenko,Russia,Soyuz TMA-07M,2012,Soyuz
+Vladimir Lyakhov,Soviet Union,Soyuz 32,1979,Soyuz
+Vladimir Lyakhov,Soviet Union,Soyuz T-9,1983,Soyuz
+Vladimir Lyakhov,Soviet Union,Soyuz TM-6,1988,Soyuz
+Aleksandr Samokutyayev,Russia,Soyuz TMA-21,2011,Soyuz
+Aleksandr Samokutyayev,Russia,Soyuz TMA-14M,2014,Soyuz
+Shannon Walker,United States,Soyuz TMA-19,2010,Soyuz
+Shannon Walker,United States,SpaceX Crew-1,2020,SpaceX Crew Dragon
+Yuri Gidzenko,Russia,Soyuz TM-22,1995,Soyuz
+Yuri Gidzenko,Russia,Soyuz TM-31,2000,Soyuz
+Yuri Gidzenko,Russia,Soyuz TM-34,2002,Soyuz
+Christina Koch,United States,Soyuz MS-12,2019,Soyuz
+"Sunita ""Suni"" Williams",United States,STS-116,2006,Space Shuttle (STS)
+"Sunita ""Suni"" Williams",United States,Soyuz TMA-05M,2012,Soyuz
+Paolo A. Nespoli,Italy,STS-120,2007,Space Shuttle (STS)
+Paolo A. Nespoli,Italy,Soyuz TMA-20,2010,Soyuz
+Paolo A. Nespoli,Italy,Soyuz MS-05,2017,Soyuz
+Gennadi Manakov,Russia,Soyuz TM-10,1990,Soyuz
+Gennadi Manakov,Russia,Soyuz TM-16,1993,Soyuz
+Aleksandr Pavlovich Aleksandrov,Soviet Union,Soyuz T-9,1983,Soyuz
+Aleksandr Pavlovich Aleksandrov,Soviet Union,Soyuz TM-3,1987,Soyuz
+Joseph M. Acaba,United States,STS-119,2009,Space Shuttle (STS)
+Joseph M. Acaba,United States,Soyuz TMA-04M,2012,Soyuz
+Joseph M. Acaba,United States,Soyuz MS-06,2017,Soyuz
+Sergei Ryazanski,Russia,Soyuz TMA-10M,2013,Soyuz
+Sergei Ryazanski,Russia,Soyuz MS-05,2017,Soyuz
+Kathleen Rubins,United States,Soyuz MS-01,2016,Soyuz
+Kathleen Rubins,United States,Soyuz MS-17,2020,Soyuz
+Andrew R. Morgan,United States,Soyuz MS-13,2019,Soyuz
+Gennady Strekalov,Soviet Union,Soyuz T-3,1980,Soyuz
+Gennady Strekalov,Soviet Union,Soyuz T-8,1983,Soyuz
+Gennady Strekalov,Soviet Union,Soyuz T-11,1984,Soyuz
+Gennady Strekalov,Soviet Union,Soyuz TM-10,1990,Soyuz
+Gennady Strekalov,Soviet Union,Soyuz TM-21,1995,Soyuz
+Michael Lopez-Alegria,United States,STS-73,1995,Space Shuttle (STS)
+Michael Lopez-Alegria,United States,STS-92,2000,Space Shuttle (STS)
+Michael Lopez-Alegria,United States,STS-113,2002,Space Shuttle (STS)
+Michael Lopez-Alegria,United States,Soyuz TMA-9,2006,Soyuz
+Timothy L. Kopra,United States,STS-127,2009,Space Shuttle (STS)
+Timothy L. Kopra,United States,Soyuz TMA-19M,2015,Soyuz
+Viktor Savinykh,Soviet Union,Soyuz T-4,1981,Soyuz
+Viktor Savinykh,Soviet Union,Soyuz T-13,1985,Soyuz
+Oleg Atkov,Soviet Union,Soyuz T-10,1984,Soyuz
+Carl Walz,United States,STS-51,1993,Space Shuttle (STS)
+Carl Walz,United States,STS-65,1994,Space Shuttle (STS)
+Carl Walz,United States,STS-79,1996,Space Shuttle (STS)
+Carl Walz,United States,STS-108,2001,Space Shuttle (STS)
+Leroy Chiao,United States,STS-65,1994,Space Shuttle (STS)
+Leroy Chiao,United States,STS-72,1996,Space Shuttle (STS)
+Leroy Chiao,United States,STS-92,2000,Space Shuttle (STS)
+Leroy Chiao,United States,Soyuz TMA-5,2004,Soyuz
+Daniel Bursch,United States,STS-51,1993,Space Shuttle (STS)
+Daniel Bursch,United States,STS-68,1994,Space Shuttle (STS)
+Daniel Bursch,United States,STS-77,1996,Space Shuttle (STS)
+Daniel Bursch,United States,STS-108,2001,Space Shuttle (STS)
+Richard Mastracchio,United States,STS-106,2000,Space Shuttle (STS)
+Richard Mastracchio,United States,STS-118,2007,Space Shuttle (STS)
+Richard Mastracchio,United States,STS-131,2010,Space Shuttle (STS)
+Richard Mastracchio,United States,Soyuz TMA-11M,2013,Soyuz
+William S. McArthur,United States,STS-58,1993,Space Shuttle (STS)
+William S. McArthur,United States,STS-74,1995,Space Shuttle (STS)
+William S. McArthur,United States,STS-92,2000,Space Shuttle (STS)
+William S. McArthur,United States,Soyuz TMA-7,2005,Soyuz
+Andrew J. Feustel,United States,STS-125,2009,Space Shuttle (STS)
+Andrew J. Feustel,United States,STS-134,2011,Space Shuttle (STS)
+Andrew J. Feustel,United States,Soyuz MS-08,2018,Soyuz
+Shannon Lucid,United States,STS-51-G,1985,Space Shuttle (STS)
+Shannon Lucid,United States,STS-34,1989,Space Shuttle (STS)
+Shannon Lucid,United States,STS-43,1991,Space Shuttle (STS)
+Shannon Lucid,United States,STS-58,1993,Space Shuttle (STS)
+Shannon Lucid,United States,STS-76,1996,Space Shuttle (STS)
+Valentin Lebedev,Soviet Union,Soyuz 13,1973,Soyuz
+Valentin Lebedev,Soviet Union,Soyuz T-5,1982,Soyuz
+Vladimir Kovalyonok,Soviet Union,Soyuz 25,1977,Soyuz
+Vladimir Kovalyonok,Soviet Union,Soyuz 29,1978,Soyuz
+Vladimir Kovalyonok,Soviet Union,Soyuz T-4,1981,Soyuz
+Terry Virts,United States,STS-130,2010,Space Shuttle (STS)
+Terry Virts,United States,Soyuz TMA-15M,2014,Soyuz
+Kenneth Bowersox,United States,STS-50,1992,Space Shuttle (STS)
+Kenneth Bowersox,United States,STS-61,1993,Space Shuttle (STS)
+Kenneth Bowersox,United States,STS-73,1995,Space Shuttle (STS)
+Kenneth Bowersox,United States,STS-82,1997,Space Shuttle (STS)
+Kenneth Bowersox,United States,STS-113,2002,Space Shuttle (STS)
+"Michael R. Barratt, M.D.",United States,Soyuz TMA-14,2009,Soyuz
+"Michael R. Barratt, M.D.",United States,STS-133,2011,Space Shuttle (STS)
+Anatoli Berezovoy,Soviet Union,Soyuz T-5,1982,Soyuz
+Susan Helms,United States,STS-54,1993,Space Shuttle (STS)
+Susan Helms,United States,STS-64,1994,Space Shuttle (STS)
+Susan Helms,United States,STS-78,1996,Space Shuttle (STS)
+Susan Helms,United States,STS-101,2000,Space Shuttle (STS)
+Susan Helms,United States,STS-102,2001,Space Shuttle (STS)
+"Jean-Pierre Haigneré, EAC",France,Soyuz TM-17,1993,Soyuz
+"Jean-Pierre Haigneré, EAC",France,Soyuz TM-29,1999,Soyuz
+Richard R. Arnold,United States,STS-119,2009,Space Shuttle (STS)
+Richard R. Arnold,United States,Soyuz MS-08,2018,Soyuz
+Edward Lu,United States,STS-84,1997,Space Shuttle (STS)
+Edward Lu,United States,STS-106,2000,Space Shuttle (STS)
+Edward Lu,United States,Soyuz TMA-2,2003,Soyuz
+"Robert Thirsk, M.D.",Canada,STS-78,1996,Space Shuttle (STS)
+"Robert Thirsk, M.D.",Canada,Soyuz TMA-15,2009,Soyuz
+Jessica Meir,United States,Soyuz MS-15,2019,Soyuz
+John Phillips,United States,STS-100,2001,Space Shuttle (STS)
+John Phillips,United States,Soyuz TMA-6,2005,Soyuz
+John Phillips,United States,STS-119,2009,Space Shuttle (STS)
+André Kuipers,Netherlands,Soyuz TMA-4,2004,Soyuz
+André Kuipers,Netherlands,Soyuz TMA-03M,2011,Soyuz
+Anne McClain,United States,Soyuz MS-11,2018,Soyuz
+David Saint-Jacques,Canada,Soyuz MS-11,2018,Soyuz
+Nick Hague,United States,Soyuz MS-12,2019,Soyuz
+James Voss,United States,STS-44,1991,Space Shuttle (STS)
+James Voss,United States,STS-53,1992,Space Shuttle (STS)
+James Voss,United States,STS-69,1995,Space Shuttle (STS)
+James Voss,United States,STS-101,2000,Space Shuttle (STS)
+James Voss,United States,STS-102,2001,Space Shuttle (STS)
+Salizhan Sharipov,Russia,STS-89,1998,Space Shuttle (STS)
+Salizhan Sharipov,Russia,Soyuz TMA-5,2004,Soyuz
+Yuri Lonchakov,Russia,STS-100,2001,Space Shuttle (STS)
+Yuri Lonchakov,Russia,Soyuz TMA-1,2002,Soyuz
+Yuri Lonchakov,Russia,Soyuz TMA-13,2008,Soyuz
+Leonid Popov,Soviet Union,Soyuz 35,1980,Soyuz
+Leonid Popov,Soviet Union,Soyuz 40,1981,Soyuz
+Leonid Popov,Soviet Union,Soyuz T-7,1982,Soyuz
+Samantha Cristoforetti,Italy,Soyuz TMA-15M,2014,Soyuz
+Valery Tokarev,Russia,STS-96,1999,Space Shuttle (STS)
+Valery Tokarev,Russia,Soyuz TMA-7,2005,Soyuz
+Gregory Chamitoff,United States,STS-124,2008,Space Shuttle (STS)
+Gregory Chamitoff,United States,STS-134,2011,Space Shuttle (STS)
+Frank De Winne,Belgium,Soyuz TMA-1,2002,Soyuz
+Frank De Winne,Belgium,Soyuz TMA-15,2009,Soyuz
+Sergey Prokopyev,Russia,Soyuz MS-09,2018,Soyuz
+Serena Auñón-Chancellor,United States,Soyuz MS-09,2018,Soyuz
+Steven Swanson,United States,STS-117,2007,Space Shuttle (STS)
+Steven Swanson,United States,STS-119,2009,Space Shuttle (STS)
+Steven Swanson,United States,Soyuz TMA-12M,2014,Soyuz
+Ivan Vagner,Russia,Soyuz MS-16,2020,Soyuz
+Michael Fossum,United States,STS-121,2006,Space Shuttle (STS)
+Michael Fossum,United States,STS-124,2008,Space Shuttle (STS)
+Michael Fossum,United States,Soyuz TMA-02M,2011,Soyuz
+Tracy Caldwell Dyson,United States,STS-118,2007,Space Shuttle (STS)
+Tracy Caldwell Dyson,United States,Soyuz TMA-18,2010,Soyuz
+Daniel Burbank,United States,STS-106,2000,Space Shuttle (STS)
+Daniel Burbank,United States,STS-115,2006,Space Shuttle (STS)
+Daniel Burbank,United States,Soyuz TMA-22,2011,Soyuz
+Timothy Peake,United Kingdom,Soyuz TMA-19M,2015,Soyuz
+Sergey Kud-Sverchkov,Russia,Soyuz MS-17,2020,Soyuz
+Sergei Treshchov,Russia,STS-111,2002,Space Shuttle (STS)
+Aleksandr Lazutkin,Russia,Soyuz TM-25,1997,Soyuz
+Andreas Mogensen,Denmark,Soyuz TMA-18M,2015,Soyuz
+Aydyn Aimbetov,Kazakhstan,Soyuz TMA-18M,2015,Soyuz
+Catherine Coleman,United States,STS-73,1995,Space Shuttle (STS)
+Catherine Coleman,United States,STS-93,1999,Space Shuttle (STS)
+Catherine Coleman,United States,Soyuz TMA-20,2010,Soyuz
+Karen Nyberg,United States,STS-124,2008,Space Shuttle (STS)
+Karen Nyberg,United States,Soyuz TMA-09M,2013,Soyuz
+Aleksandr Balandin,Soviet Union,Soyuz TM-9,1990,Soyuz
+Alexander Poleshchuk,Russia,Soyuz TM-16,1993,Soyuz
+Yelena Kondakova,Russia,Soyuz TM-20,1994,Soyuz
+Yelena Kondakova,Russia,STS-84,1997,Space Shuttle (STS)
+Douglas Wheelock,United States,STS-120,2007,Space Shuttle (STS)
+Douglas Wheelock,United States,Soyuz TMA-19,2010,Soyuz
+Barry Wilmore,United States,STS-129,2009,Space Shuttle (STS)
+Barry Wilmore,United States,Soyuz TMA-14M,2014,Soyuz
+Ronald Garan,United States,STS-124,2008,Space Shuttle (STS)
+Ronald Garan,United States,Soyuz TMA-21,2011,Soyuz
+Andrew Thomas,United States,STS-77,1996,Space Shuttle (STS)
+Andrew Thomas,United States,STS-89,1998,Space Shuttle (STS)
+Andrew Thomas,United States,STS-102,2001,Space Shuttle (STS)
+Andrew Thomas,United States,STS-114,2005,Space Shuttle (STS)
+Klaus-Dietrich Flade,Germany,Soyuz TM-13,1991,Soyuz
+Aleksandr Laveykin,Soviet Union,Soyuz TM-2,1987,Soyuz
+"David Wolf, M.D.",United States,STS-58,1993,Space Shuttle (STS)
+"David Wolf, M.D.",United States,STS-86,1997,Space Shuttle (STS)
+"David Wolf, M.D.",United States,STS-112,2002,Space Shuttle (STS)
+"David Wolf, M.D.",United States,STS-127,2009,Space Shuttle (STS)
+Norishige Kanai,Japan,Soyuz MS-07,2017,Soyuz
+Scott D. Tingle,United States,Soyuz MS-07,2017,Soyuz
+Victor J. Glover,United States,SpaceX Crew-1,2020,SpaceX Crew Dragon
+Satoshi Furukawa,Japan,Soyuz TMA-02M,2011,Soyuz
+Yelena Serova,Russia,Soyuz TMA-14M,2014,Soyuz
+Clayton Anderson,United States,STS-117,2007,Space Shuttle (STS)
+Clayton Anderson,United States,STS-131,2010,Space Shuttle (STS)
+Chris Hadfield,Canada,STS-74,1995,Space Shuttle (STS)
+Chris Hadfield,Canada,STS-100,2001,Space Shuttle (STS)
+Chris Hadfield,Canada,Soyuz TMA-07M,2012,Soyuz
+Gregory R. Wiseman,United States,Soyuz TMA-13M,2014,Soyuz
+Timothy Creamer,United States,Soyuz TMA-17,2009,Soyuz
+"Thomas Marshburn, M.D.",United States,STS-127,2009,Space Shuttle (STS)
+"Thomas Marshburn, M.D.",United States,Soyuz TMA-07M,2012,Soyuz
+John Blaha,United States,STS-29,1989,Space Shuttle (STS)
+John Blaha,United States,STS-33,1989,Space Shuttle (STS)
+John Blaha,United States,STS-43,1991,Space Shuttle (STS)
+John Blaha,United States,STS-58,1993,Space Shuttle (STS)
+John Blaha,United States,STS-79,1996,Space Shuttle (STS)
+Dmitri Kondratyev,Russia,Soyuz TMA-20,2010,Soyuz
+William Shepherd,United States,STS-27,1988,Space Shuttle (STS)
+William Shepherd,United States,STS-41,1990,Space Shuttle (STS)
+William Shepherd,United States,STS-52,1992,Space Shuttle (STS)
+William Shepherd,United States,Soyuz TM-31,2000,Soyuz
+Kevin A. Ford,United States,STS-128,2009,Space Shuttle (STS)
+Kevin A. Ford,United States,Soyuz TMA-06M,2012,Soyuz
+Sandra Magnus,United States,STS-112,2002,Space Shuttle (STS)
+Sandra Magnus,United States,STS-126,2008,Space Shuttle (STS)
+Sandra Magnus,United States,STS-135,2011,Space Shuttle (STS)
+Randolph Bresnik,United States,STS-129,2009,Space Shuttle (STS)
+Randolph Bresnik,United States,Soyuz MS-05,2017,Soyuz
+Vladimir Dzhanibekov,Soviet Union,Soyuz 27,1978,Soyuz
+Vladimir Dzhanibekov,Soviet Union,Soyuz 39,1981,Soyuz
+Vladimir Dzhanibekov,Soviet Union,Soyuz T-6,1982,Soyuz
+Vladimir Dzhanibekov,Soviet Union,Soyuz T-12,1984,Soyuz
+Vladimir Dzhanibekov,Soviet Union,Soyuz T-13,1985,Soyuz
+Anatoly Artsebarsky,Soviet Union,Soyuz TM-12,1991,Soyuz
+Evgeny Tarelkin,Russia,Soyuz TMA-06M,2012,Soyuz
+"Frank L. Culbertson, Jr.",United States,STS-38,1990,Space Shuttle (STS)
+"Frank L. Culbertson, Jr.",United States,STS-51,1993,Space Shuttle (STS)
+"Frank L. Culbertson, Jr.",United States,STS-105,2001,Space Shuttle (STS)
+Jerry Linenger,United States,STS-64,1994,Space Shuttle (STS)
+Jerry Linenger,United States,STS-81,1997,Space Shuttle (STS)
+Kjell N. Lindgren,United States,Soyuz TMA-17M,2015,Soyuz
+Kimiya Yui,Japan,Soyuz TMA-17M,2015,Soyuz
+"Norman Thagard, M.D.",United States,STS-7,1983,Space Shuttle (STS)
+"Norman Thagard, M.D.",United States,STS-51-B,1985,Space Shuttle (STS)
+"Norman Thagard, M.D.",United States,STS-30,1989,Space Shuttle (STS)
+"Norman Thagard, M.D.",United States,STS-42,1992,Space Shuttle (STS)
+"Norman Thagard, M.D.",United States,Soyuz TM-21,1995,Soyuz
+Aleksandr Ivanchenkov,Soviet Union,Soyuz 29,1978,Soyuz
+Jack D. Fischer,United States,Soyuz MS-04,2017,Soyuz
+Georgi Grechko,Soviet Union,Soyuz 17,1975,Soyuz
+Georgi Grechko,Soviet Union,Soyuz 26,1977,Soyuz
+Georgi Grechko,Soviet Union,Soyuz T-14,1985,Soyuz
+Daniel Tani,United States,STS-108,2001,Space Shuttle (STS)
+Daniel Tani,United States,STS-120,2007,Space Shuttle (STS)
+Sergei Revin,Russia,Soyuz TMA-04M,2012,Soyuz
+Vladimir N. Dezhurov,Russia,Soyuz TM-21,1995,Soyuz
+Takuya Onishi,Japan,Soyuz MS-01,2016,Soyuz
+Garrett Reisman,United States,STS-123,2008,Space Shuttle (STS)
+Garrett Reisman,United States,STS-132,2010,Space Shuttle (STS)
+Robert L. Behnken,United States,STS-123,2008,Space Shuttle (STS)
+Robert L. Behnken,United States,STS-130,2010,Space Shuttle (STS)
+Robert L. Behnken,United States,Crew Dragon Demo-2,2020,Other / Unclassified
+Douglas G. Hurley,United States,STS-127,2009,Space Shuttle (STS)
+Douglas G. Hurley,United States,STS-135,2011,Space Shuttle (STS)
+Douglas G. Hurley,United States,Crew Dragon Demo-2,2020,Other / Unclassified
+Aleksandar Panayotov Aleksandrov,Bulgaria,Soyuz TM-5,1988,Soyuz
+Edward Gibson,United States,Skylab 4,1973,Other / Unclassified
+William Pogue,United States,Skylab 4,1973,Other / Unclassified
+Gerald P. Carr,United States,Skylab 4,1973,Other / Unclassified
+Sergei Zalyotin,Russia,Soyuz TM-30,2000,Soyuz
+Sergei Zalyotin,Russia,Soyuz TMA-1,2002,Soyuz
+Vitali Sevastyanov,Soviet Union,Soyuz 9,1970,Soyuz
+Vitali Sevastyanov,Soviet Union,Soyuz 18,1975,Soyuz
+Petr Klimuk,Soviet Union,Soyuz 13,1973,Soyuz
+Petr Klimuk,Soviet Union,Soyuz 18,1975,Soyuz
+Petr Klimuk,Soviet Union,Soyuz 30,1978,Soyuz
+Owen Garriott,United States,Skylab 3,1973,Other / Unclassified
+Owen Garriott,United States,STS-9,1983,Space Shuttle (STS)
+Alan Bean,United States,Apollo 12,1969,Other / Unclassified
+Alan Bean,United States,Skylab 3,1973,Other / Unclassified
+"Léopold Eyharts, EAC",France,Soyuz TM-27,1998,Soyuz
+"Léopold Eyharts, EAC",France,STS-122,2008,Space Shuttle (STS)
+James Wetherbee,United States,STS-32,1990,Space Shuttle (STS)
+James Wetherbee,United States,STS-52,1992,Space Shuttle (STS)
+James Wetherbee,United States,STS-63,1995,Space Shuttle (STS)
+James Wetherbee,United States,STS-86,1997,Space Shuttle (STS)
+James Wetherbee,United States,STS-102,2001,Space Shuttle (STS)
+James Wetherbee,United States,STS-113,2002,Space Shuttle (STS)
+Jack Lousma,United States,Skylab 3,1973,Other / Unclassified
+Jack Lousma,United States,STS-3,1982,Space Shuttle (STS)
+Kent Rominger,United States,STS-73,1995,Space Shuttle (STS)
+Kent Rominger,United States,STS-80,1996,Space Shuttle (STS)
+Kent Rominger,United States,STS-85,1997,Space Shuttle (STS)
+Kent Rominger,United States,STS-96,1999,Space Shuttle (STS)
+Kent Rominger,United States,STS-100,2001,Space Shuttle (STS)
+Franklin Chang-Diaz,United States,STS-61-C,1986,Space Shuttle (STS)
+Franklin Chang-Diaz,United States,STS-34,1989,Space Shuttle (STS)
+Franklin Chang-Diaz,United States,STS-46,1992,Space Shuttle (STS)
+Franklin Chang-Diaz,United States,STS-60,1994,Space Shuttle (STS)
+Franklin Chang-Diaz,United States,STS-75,1996,Space Shuttle (STS)
+Franklin Chang-Diaz,United States,STS-91,1998,Space Shuttle (STS)
+Franklin Chang-Diaz,United States,STS-111,2002,Space Shuttle (STS)
+Vladimir Vasyutin,Soviet Union,Soyuz T-14,1985,Soyuz
+Kenneth Cockrell,United States,STS-56,1993,Space Shuttle (STS)
+Kenneth Cockrell,United States,STS-69,1995,Space Shuttle (STS)
+Kenneth Cockrell,United States,STS-80,1996,Space Shuttle (STS)
+Kenneth Cockrell,United States,STS-98,2001,Space Shuttle (STS)
+Kenneth Cockrell,United States,STS-111,2002,Space Shuttle (STS)
+Steven Lindsey,United States,STS-87,1997,Space Shuttle (STS)
+Steven Lindsey,United States,STS-95,1998,Space Shuttle (STS)
+Steven Lindsey,United States,STS-104,2001,Space Shuttle (STS)
+Steven Lindsey,United States,STS-121,2006,Space Shuttle (STS)
+Steven Lindsey,United States,STS-133,2011,Space Shuttle (STS)
+Tamara E. Jernigan,United States,STS-40,1991,Space Shuttle (STS)
+Tamara E. Jernigan,United States,STS-52,1992,Space Shuttle (STS)
+Tamara E. Jernigan,United States,STS-67,1995,Space Shuttle (STS)
+Tamara E. Jernigan,United States,STS-80,1996,Space Shuttle (STS)
+Tamara E. Jernigan,United States,STS-96,1999,Space Shuttle (STS)
+John Grunsfeld,United States,STS-67,1995,Space Shuttle (STS)
+John Grunsfeld,United States,STS-81,1997,Space Shuttle (STS)
+John Grunsfeld,United States,STS-103,1999,Space Shuttle (STS)
+John Grunsfeld,United States,STS-109,2002,Space Shuttle (STS)
+John Grunsfeld,United States,STS-125,2009,Space Shuttle (STS)
+Richard Linnehan,United States,STS-78,1996,Space Shuttle (STS)
+Richard Linnehan,United States,STS-90,1998,Space Shuttle (STS)
+Richard Linnehan,United States,STS-109,2002,Space Shuttle (STS)
+Richard Linnehan,United States,STS-123,2008,Space Shuttle (STS)
+"Scott Parazynski, M.D.",United States,STS-66,1994,Space Shuttle (STS)
+"Scott Parazynski, M.D.",United States,STS-86,1997,Space Shuttle (STS)
+"Scott Parazynski, M.D.",United States,STS-95,1998,Space Shuttle (STS)
+"Scott Parazynski, M.D.",United States,STS-100,2001,Space Shuttle (STS)
+"Scott Parazynski, M.D.",United States,STS-120,2007,Space Shuttle (STS)
+Curtis Brown,United States,STS-47,1992,Space Shuttle (STS)
+Curtis Brown,United States,STS-66,1994,Space Shuttle (STS)
+Curtis Brown,United States,STS-77,1996,Space Shuttle (STS)
+Curtis Brown,United States,STS-85,1997,Space Shuttle (STS)
+Curtis Brown,United States,STS-95,1998,Space Shuttle (STS)
+Curtis Brown,United States,STS-103,1999,Space Shuttle (STS)
+Jerry L. Ross,United States,STS-61-B,1985,Space Shuttle (STS)
+Jerry L. Ross,United States,STS-27,1988,Space Shuttle (STS)
+Jerry L. Ross,United States,STS-37,1991,Space Shuttle (STS)
+Jerry L. Ross,United States,STS-55,1993,Space Shuttle (STS)
+Jerry L. Ross,United States,STS-74,1995,Space Shuttle (STS)
+Jerry L. Ross,United States,STS-88,1998,Space Shuttle (STS)
+Jerry L. Ross,United States,STS-110,2002,Space Shuttle (STS)
+Marsha Ivins,United States,STS-32,1990,Space Shuttle (STS)
+Marsha Ivins,United States,STS-46,1992,Space Shuttle (STS)
+Marsha Ivins,United States,STS-62,1994,Space Shuttle (STS)
+Marsha Ivins,United States,STS-81,1997,Space Shuttle (STS)
+Marsha Ivins,United States,STS-98,2001,Space Shuttle (STS)
+Mark Kelly,United States,STS-108,2001,Space Shuttle (STS)
+Mark Kelly,United States,STS-121,2006,Space Shuttle (STS)
+Mark Kelly,United States,STS-124,2008,Space Shuttle (STS)
+Mark Kelly,United States,STS-134,2011,Space Shuttle (STS)
+"Story Musgrave, M.D.",United States,STS-6,1983,Space Shuttle (STS)
+"Story Musgrave, M.D.",United States,STS-51-F,1985,Space Shuttle (STS)
+"Story Musgrave, M.D.",United States,STS-33,1989,Space Shuttle (STS)
+"Story Musgrave, M.D.",United States,STS-44,1991,Space Shuttle (STS)
+"Story Musgrave, M.D.",United States,STS-61,1993,Space Shuttle (STS)
+"Story Musgrave, M.D.",United States,STS-80,1996,Space Shuttle (STS)
+Thomas D. Jones,United States,STS-59,1994,Space Shuttle (STS)
+Thomas D. Jones,United States,STS-68,1994,Space Shuttle (STS)
+Thomas D. Jones,United States,STS-80,1996,Space Shuttle (STS)
+Thomas D. Jones,United States,STS-98,2001,Space Shuttle (STS)
+Kevin Kregel,United States,STS-70,1995,Space Shuttle (STS)
+Kevin Kregel,United States,STS-78,1996,Space Shuttle (STS)
+Kevin Kregel,United States,STS-87,1997,Space Shuttle (STS)
+Kevin Kregel,United States,STS-99,2000,Space Shuttle (STS)
+James Halsell,United States,STS-65,1994,Space Shuttle (STS)
+James Halsell,United States,STS-74,1995,Space Shuttle (STS)
+James Halsell,United States,STS-83,1997,Space Shuttle (STS)
+James Halsell,United States,STS-94,1997,Space Shuttle (STS)
+James Halsell,United States,STS-101,2000,Space Shuttle (STS)
+Boris Volynov,Soviet Union,Soyuz 5,1969,Soyuz
+Boris Volynov,Soviet Union,Soyuz 21,1976,Soyuz
+Wendy Lawrence,United States,STS-67,1995,Space Shuttle (STS)
+Wendy Lawrence,United States,STS-86,1997,Space Shuttle (STS)
+Wendy Lawrence,United States,STS-91,1998,Space Shuttle (STS)
+Wendy Lawrence,United States,STS-114,2005,Space Shuttle (STS)
+Frederick Sturckow,United States,STS-88,1998,Space Shuttle (STS)
+Frederick Sturckow,United States,STS-105,2001,Space Shuttle (STS)
+Frederick Sturckow,United States,STS-117,2007,Space Shuttle (STS)
+Frederick Sturckow,United States,STS-128,2009,Space Shuttle (STS)
+Scott Altman,United States,STS-90,1998,Space Shuttle (STS)
+Scott Altman,United States,STS-106,2000,Space Shuttle (STS)
+Scott Altman,United States,STS-109,2002,Space Shuttle (STS)
+Scott Altman,United States,STS-125,2009,Space Shuttle (STS)
+Jeffrey Hoffman,United States,STS-51-D,1985,Space Shuttle (STS)
+Jeffrey Hoffman,United States,STS-35,1990,Space Shuttle (STS)
+Jeffrey Hoffman,United States,STS-46,1992,Space Shuttle (STS)
+Jeffrey Hoffman,United States,STS-61,1993,Space Shuttle (STS)
+Jeffrey Hoffman,United States,STS-75,1996,Space Shuttle (STS)
+Bonnie J. Dunbar,United States,STS-61-A,1985,Space Shuttle (STS)
+Bonnie J. Dunbar,United States,STS-32,1990,Space Shuttle (STS)
+Bonnie J. Dunbar,United States,STS-50,1992,Space Shuttle (STS)
+Bonnie J. Dunbar,United States,STS-71,1995,Space Shuttle (STS)
+Bonnie J. Dunbar,United States,STS-89,1998,Space Shuttle (STS)
+Ulf Merbold,Germany,STS-9,1983,Space Shuttle (STS)
+Ulf Merbold,Germany,STS-42,1992,Space Shuttle (STS)
+Ulf Merbold,Germany,Soyuz TM-20,1994,Soyuz
+Vitaliy Zholobov,Soviet Union,Soyuz 21,1976,Soyuz
+Janice Voss,United States,STS-57,1993,Space Shuttle (STS)
+Janice Voss,United States,STS-63,1995,Space Shuttle (STS)
+Janice Voss,United States,STS-83,1997,Space Shuttle (STS)
+Janice Voss,United States,STS-94,1997,Space Shuttle (STS)
+Janice Voss,United States,STS-99,2000,Space Shuttle (STS)
+"Charles ""Pete"" Conrad",United States,Gemini 5,1965,Other / Unclassified
+"Charles ""Pete"" Conrad",United States,Gemini 11,1966,Other / Unclassified
+"Charles ""Pete"" Conrad",United States,Apollo 12,1969,Other / Unclassified
+"Charles ""Pete"" Conrad",United States,Skylab 2,1973,Other / Unclassified
+Dominic Gorie,United States,STS-91,1998,Space Shuttle (STS)
+Dominic Gorie,United States,STS-99,2000,Space Shuttle (STS)
+Dominic Gorie,United States,STS-108,2001,Space Shuttle (STS)
+Dominic Gorie,United States,STS-123,2008,Space Shuttle (STS)
+Stephen Robinson,United States,STS-85,1997,Space Shuttle (STS)
+Stephen Robinson,United States,STS-95,1998,Space Shuttle (STS)
+Stephen Robinson,United States,STS-114,2005,Space Shuttle (STS)
+Stephen Robinson,United States,STS-130,2010,Space Shuttle (STS)
+Jing Haipeng,China,Shenzhou 7,2008,Shenzhou
+Jing Haipeng,China,Shenzhou 9,2012,Shenzhou
+Jing Haipeng,China,Shenzhou 11,2016,Shenzhou
+Scott Horowitz,United States,STS-75,1996,Space Shuttle (STS)
+Scott Horowitz,United States,STS-82,1997,Space Shuttle (STS)
+Scott Horowitz,United States,STS-101,2000,Space Shuttle (STS)
+Scott Horowitz,United States,STS-105,2001,Space Shuttle (STS)
+Jean-Loup Chrétien,France,Soyuz T-6,1982,Soyuz
+Jean-Loup Chrétien,France,Soyuz TM-7,1988,Soyuz
+Jean-Loup Chrétien,France,STS-86,1997,Space Shuttle (STS)
+Peter Wisoff,United States,STS-57,1993,Space Shuttle (STS)
+Peter Wisoff,United States,STS-68,1994,Space Shuttle (STS)
+Peter Wisoff,United States,STS-81,1997,Space Shuttle (STS)
+Peter Wisoff,United States,STS-92,2000,Space Shuttle (STS)
+Joseph Tanner,United States,STS-66,1994,Space Shuttle (STS)
+Joseph Tanner,United States,STS-82,1997,Space Shuttle (STS)
+Joseph Tanner,United States,STS-97,2000,Space Shuttle (STS)
+Joseph Tanner,United States,STS-115,2006,Space Shuttle (STS)
+Claude Nicollier,Switzerland,STS-46,1992,Space Shuttle (STS)
+Claude Nicollier,Switzerland,STS-61,1993,Space Shuttle (STS)
+Claude Nicollier,Switzerland,STS-75,1996,Space Shuttle (STS)
+Claude Nicollier,Switzerland,STS-103,1999,Space Shuttle (STS)
+James H. Newman,United States,STS-51,1993,Space Shuttle (STS)
+James H. Newman,United States,STS-69,1995,Space Shuttle (STS)
+James H. Newman,United States,STS-88,1998,Space Shuttle (STS)
+James H. Newman,United States,STS-109,2002,Space Shuttle (STS)
+Donald Thomas,United States,STS-65,1994,Space Shuttle (STS)
+Donald Thomas,United States,STS-70,1995,Space Shuttle (STS)
+Donald Thomas,United States,STS-83,1997,Space Shuttle (STS)
+Donald Thomas,United States,STS-94,1997,Space Shuttle (STS)
+Michael Gernhardt,United States,STS-69,1995,Space Shuttle (STS)
+Michael Gernhardt,United States,STS-83,1997,Space Shuttle (STS)
+Michael Gernhardt,United States,STS-94,1997,Space Shuttle (STS)
+Michael Gernhardt,United States,STS-104,2001,Space Shuttle (STS)
+Stephanie Wilson,United States,STS-121,2006,Space Shuttle (STS)
+Stephanie Wilson,United States,STS-120,2007,Space Shuttle (STS)
+Stephanie Wilson,United States,STS-131,2010,Space Shuttle (STS)
+Terence Henricks,United States,STS-44,1991,Space Shuttle (STS)
+Terence Henricks,United States,STS-55,1993,Space Shuttle (STS)
+Terence Henricks,United States,STS-70,1995,Space Shuttle (STS)
+Terence Henricks,United States,STS-78,1996,Space Shuttle (STS)
+"Brent W. Jett, Jr.",United States,STS-72,1996,Space Shuttle (STS)
+"Brent W. Jett, Jr.",United States,STS-81,1997,Space Shuttle (STS)
+"Brent W. Jett, Jr.",United States,STS-97,2000,Space Shuttle (STS)
+"Brent W. Jett, Jr.",United States,STS-115,2006,Space Shuttle (STS)
+Nancy J. Currie,United States,STS-57,1993,Space Shuttle (STS)
+Nancy J. Currie,United States,STS-70,1995,Space Shuttle (STS)
+Nancy J. Currie,United States,STS-88,1998,Space Shuttle (STS)
+Nancy J. Currie,United States,STS-109,2002,Space Shuttle (STS)
+Mark Polansky,United States,STS-98,2001,Space Shuttle (STS)
+Mark Polansky,United States,STS-116,2006,Space Shuttle (STS)
+Mark Polansky,United States,STS-127,2009,Space Shuttle (STS)
+Steven Smith,United States,STS-68,1994,Space Shuttle (STS)
+Steven Smith,United States,STS-82,1997,Space Shuttle (STS)
+Steven Smith,United States,STS-103,1999,Space Shuttle (STS)
+Steven Smith,United States,STS-110,2002,Space Shuttle (STS)
+Terrence Wilcutt,United States,STS-68,1994,Space Shuttle (STS)
+Terrence Wilcutt,United States,STS-79,1996,Space Shuttle (STS)
+Terrence Wilcutt,United States,STS-89,1998,Space Shuttle (STS)
+Terrence Wilcutt,United States,STS-106,2000,Space Shuttle (STS)
+Brian Duffy,United States,STS-45,1992,Space Shuttle (STS)
+Brian Duffy,United States,STS-57,1993,Space Shuttle (STS)
+Brian Duffy,United States,STS-72,1996,Space Shuttle (STS)
+Brian Duffy,United States,STS-92,2000,Space Shuttle (STS)
+Kathryn Thornton,United States,STS-33,1989,Space Shuttle (STS)
+Kathryn Thornton,United States,STS-49,1992,Space Shuttle (STS)
+Kathryn Thornton,United States,STS-61,1993,Space Shuttle (STS)
+Kathryn Thornton,United States,STS-73,1995,Space Shuttle (STS)
+Ellen Ochoa,United States,STS-56,1993,Space Shuttle (STS)
+Ellen Ochoa,United States,STS-66,1994,Space Shuttle (STS)
+Ellen Ochoa,United States,STS-96,1999,Space Shuttle (STS)
+Ellen Ochoa,United States,STS-110,2002,Space Shuttle (STS)
+Christopher Ferguson,United States,STS-115,2006,Space Shuttle (STS)
+Christopher Ferguson,United States,STS-126,2008,Space Shuttle (STS)
+Christopher Ferguson,United States,STS-135,2011,Space Shuttle (STS)
+Stephen G. Bowen,United States,STS-126,2008,Space Shuttle (STS)
+Stephen G. Bowen,United States,STS-132,2010,Space Shuttle (STS)
+Stephen G. Bowen,United States,STS-133,2011,Space Shuttle (STS)
+Michael Baker,United States,STS-43,1991,Space Shuttle (STS)
+Michael Baker,United States,STS-52,1992,Space Shuttle (STS)
+Michael Baker,United States,STS-68,1994,Space Shuttle (STS)
+Michael Baker,United States,STS-81,1997,Space Shuttle (STS)
+Patrick Forrester,United States,STS-105,2001,Space Shuttle (STS)
+Patrick Forrester,United States,STS-117,2007,Space Shuttle (STS)
+Patrick Forrester,United States,STS-128,2009,Space Shuttle (STS)
+Richard Searfoss,United States,STS-58,1993,Space Shuttle (STS)
+Richard Searfoss,United States,STS-76,1996,Space Shuttle (STS)
+Richard Searfoss,United States,STS-90,1998,Space Shuttle (STS)
+Pamela Melroy,United States,STS-92,2000,Space Shuttle (STS)
+Pamela Melroy,United States,STS-112,2002,Space Shuttle (STS)
+Pamela Melroy,United States,STS-120,2007,Space Shuttle (STS)
+Charles Precourt,United States,STS-55,1993,Space Shuttle (STS)
+Charles Precourt,United States,STS-71,1995,Space Shuttle (STS)
+Charles Precourt,United States,STS-84,1997,Space Shuttle (STS)
+Charles Precourt,United States,STS-91,1998,Space Shuttle (STS)
+Linda Godwin,United States,STS-37,1991,Space Shuttle (STS)
+Linda Godwin,United States,STS-59,1994,Space Shuttle (STS)
+Linda Godwin,United States,STS-76,1996,Space Shuttle (STS)
+Linda Godwin,United States,STS-108,2001,Space Shuttle (STS)
+Robert D. Cabana,United States,STS-41,1990,Space Shuttle (STS)
+Robert D. Cabana,United States,STS-53,1992,Space Shuttle (STS)
+Robert D. Cabana,United States,STS-65,1994,Space Shuttle (STS)
+Robert D. Cabana,United States,STS-88,1998,Space Shuttle (STS)
+Andrew M. Allen,United States,STS-46,1992,Space Shuttle (STS)
+Andrew M. Allen,United States,STS-62,1994,Space Shuttle (STS)
+Andrew M. Allen,United States,STS-75,1996,Space Shuttle (STS)
+Robert Curbeam,United States,STS-85,1997,Space Shuttle (STS)
+Robert Curbeam,United States,STS-98,2001,Space Shuttle (STS)
+Robert Curbeam,United States,STS-116,2006,Space Shuttle (STS)
+Aleksei Gubarev,Soviet Union,Soyuz 17,1975,Soyuz
+Aleksei Gubarev,Soviet Union,Soyuz 28,1978,Soyuz
+Rex Walheim,United States,STS-110,2002,Space Shuttle (STS)
+Rex Walheim,United States,STS-122,2008,Space Shuttle (STS)
+Rex Walheim,United States,STS-135,2011,Space Shuttle (STS)
+Eileen Collins,United States,STS-63,1995,Space Shuttle (STS)
+Eileen Collins,United States,STS-84,1997,Space Shuttle (STS)
+Eileen Collins,United States,STS-93,1999,Space Shuttle (STS)
+Eileen Collins,United States,STS-114,2005,Space Shuttle (STS)
+Robert L. Gibson,United States,STS-41-B,1984,Space Shuttle (STS)
+Robert L. Gibson,United States,STS-61-C,1986,Space Shuttle (STS)
+Robert L. Gibson,United States,STS-27,1988,Space Shuttle (STS)
+Robert L. Gibson,United States,STS-47,1992,Space Shuttle (STS)
+Robert L. Gibson,United States,STS-71,1995,Space Shuttle (STS)
+Roberto Vittori,Italy,Soyuz TM-34,2002,Soyuz
+Roberto Vittori,Italy,Soyuz TMA-6,2005,Soyuz
+Roberto Vittori,Italy,STS-134,2011,Space Shuttle (STS)
+James F. Reilly,United States,STS-89,1998,Space Shuttle (STS)
+James F. Reilly,United States,STS-104,2001,Space Shuttle (STS)
+James F. Reilly,United States,STS-117,2007,Space Shuttle (STS)
+Charles Hobaugh,United States,STS-104,2001,Space Shuttle (STS)
+Charles Hobaugh,United States,STS-108,2001,Space Shuttle (STS)
+Charles Hobaugh,United States,STS-129,2009,Space Shuttle (STS)
+Piers Sellers,United States,STS-112,2002,Space Shuttle (STS)
+Piers Sellers,United States,STS-121,2006,Space Shuttle (STS)
+Piers Sellers,United States,STS-132,2010,Space Shuttle (STS)
+Jerome Apt,United States,STS-37,1991,Space Shuttle (STS)
+Jerome Apt,United States,STS-47,1992,Space Shuttle (STS)
+Jerome Apt,United States,STS-59,1994,Space Shuttle (STS)
+Jerome Apt,United States,STS-79,1996,Space Shuttle (STS)
+John Young,United States,Gemini 3,1965,Other / Unclassified
+John Young,United States,Gemini 10,1966,Other / Unclassified
+John Young,United States,Apollo 10,1969,Other / Unclassified
+John Young,United States,Apollo 16,1972,Other / Unclassified
+John Young,United States,STS-1,1981,Space Shuttle (STS)
+John Young,United States,STS-9,1983,Space Shuttle (STS)
+John Casper,United States,STS-36,1990,Space Shuttle (STS)
+John Casper,United States,STS-54,1993,Space Shuttle (STS)
+John Casper,United States,STS-62,1994,Space Shuttle (STS)
+John Casper,United States,STS-77,1996,Space Shuttle (STS)
+Gregory Harbaugh,United States,STS-39,1991,Space Shuttle (STS)
+Gregory Harbaugh,United States,STS-54,1993,Space Shuttle (STS)
+Gregory Harbaugh,United States,STS-71,1995,Space Shuttle (STS)
+Gregory Harbaugh,United States,STS-82,1997,Space Shuttle (STS)
+Thomas Akers,United States,STS-41,1990,Space Shuttle (STS)
+Thomas Akers,United States,STS-49,1992,Space Shuttle (STS)
+Thomas Akers,United States,STS-61,1993,Space Shuttle (STS)
+Thomas Akers,United States,STS-79,1996,Space Shuttle (STS)
+Stephen Oswald,United States,STS-42,1992,Space Shuttle (STS)
+Stephen Oswald,United States,STS-56,1993,Space Shuttle (STS)
+Stephen Oswald,United States,STS-67,1995,Space Shuttle (STS)
+Richard N. Richards,United States,STS-28,1989,Space Shuttle (STS)
+Richard N. Richards,United States,STS-41,1990,Space Shuttle (STS)
+Richard N. Richards,United States,STS-50,1992,Space Shuttle (STS)
+Richard N. Richards,United States,STS-64,1994,Space Shuttle (STS)
+Janet L. Kavandi,United States,STS-91,1998,Space Shuttle (STS)
+Janet L. Kavandi,United States,STS-99,2000,Space Shuttle (STS)
+Janet L. Kavandi,United States,STS-104,2001,Space Shuttle (STS)
+Michael J. Bloomfield,United States,STS-86,1997,Space Shuttle (STS)
+Michael J. Bloomfield,United States,STS-97,2000,Space Shuttle (STS)
+Michael J. Bloomfield,United States,STS-110,2002,Space Shuttle (STS)
+Paul Weitz,United States,Skylab 2,1973,Other / Unclassified
+Paul Weitz,United States,STS-6,1983,Space Shuttle (STS)
+Daniel Brandenstein,United States,STS-8,1983,Space Shuttle (STS)
+Daniel Brandenstein,United States,STS-51-G,1985,Space Shuttle (STS)
+Daniel Brandenstein,United States,STS-32,1990,Space Shuttle (STS)
+Daniel Brandenstein,United States,STS-49,1992,Space Shuttle (STS)
+Mark C. Lee,United States,STS-30,1989,Space Shuttle (STS)
+Mark C. Lee,United States,STS-47,1992,Space Shuttle (STS)
+Mark C. Lee,United States,STS-64,1994,Space Shuttle (STS)
+Mark C. Lee,United States,STS-82,1997,Space Shuttle (STS)
+Chen Dong,China,Shenzhou 11,2016,Shenzhou
+Steven Hawley,United States,STS-41-D,1984,Space Shuttle (STS)
+Steven Hawley,United States,STS-61-C,1986,Space Shuttle (STS)
+Steven Hawley,United States,STS-31,1990,Space Shuttle (STS)
+Steven Hawley,United States,STS-82,1997,Space Shuttle (STS)
+Steven Hawley,United States,STS-93,1999,Space Shuttle (STS)
+Richard Hieb,United States,STS-39,1991,Space Shuttle (STS)
+Richard Hieb,United States,STS-49,1992,Space Shuttle (STS)
+Richard Hieb,United States,STS-65,1994,Space Shuttle (STS)
+Kalpana Chawla,United States,STS-87,1997,Space Shuttle (STS)
+Kalpana Chawla,United States,STS-107,2003,Space Shuttle (STS)
+Gregory H. Johnson,United States,STS-123,2008,Space Shuttle (STS)
+Gregory H. Johnson,United States,STS-134,2011,Space Shuttle (STS)
+Takao Doi,Japan,STS-87,1997,Space Shuttle (STS)
+Takao Doi,Japan,STS-123,2008,Space Shuttle (STS)
+Vance Brand,United States,Apollo-Soyuz Test Project,1975,Other / Unclassified
+Vance Brand,United States,STS-5,1982,Space Shuttle (STS)
+Vance Brand,United States,STS-41-B,1984,Space Shuttle (STS)
+Vance Brand,United States,STS-35,1990,Space Shuttle (STS)
+Viktor Gorbatko,Soviet Union,Soyuz 7,1969,Soyuz
+Viktor Gorbatko,Soviet Union,Soyuz 24,1977,Soyuz
+Viktor Gorbatko,Soviet Union,Soyuz 37,1980,Soyuz
+Daniel Barry,United States,STS-72,1996,Space Shuttle (STS)
+Daniel Barry,United States,STS-96,1999,Space Shuttle (STS)
+Daniel Barry,United States,STS-105,2001,Space Shuttle (STS)
+David M. Walker,United States,STS-51-A,1984,Space Shuttle (STS)
+David M. Walker,United States,STS-30,1989,Space Shuttle (STS)
+David M. Walker,United States,STS-53,1992,Space Shuttle (STS)
+David M. Walker,United States,STS-69,1995,Space Shuttle (STS)
+"Rhea Seddon, M.D.",United States,STS-51-D,1985,Space Shuttle (STS)
+"Rhea Seddon, M.D.",United States,STS-40,1991,Space Shuttle (STS)
+"Rhea Seddon, M.D.",United States,STS-58,1993,Space Shuttle (STS)
+Steven R. Nagel,United States,STS-51-G,1985,Space Shuttle (STS)
+Steven R. Nagel,United States,STS-61-A,1985,Space Shuttle (STS)
+Steven R. Nagel,United States,STS-37,1991,Space Shuttle (STS)
+Steven R. Nagel,United States,STS-55,1993,Space Shuttle (STS)
+Jim Lovell,United States,Gemini 7,1965,Other / Unclassified
+Jim Lovell,United States,Gemini 12,1966,Other / Unclassified
+Jim Lovell,United States,Apollo 8,1968,Other / Unclassified
+Jim Lovell,United States,Apollo 13,1970,Other / Unclassified
+G. David Low,United States,STS-32,1990,Space Shuttle (STS)
+G. David Low,United States,STS-43,1991,Space Shuttle (STS)
+G. David Low,United States,STS-57,1993,Space Shuttle (STS)
+Carl Meade,United States,STS-38,1990,Space Shuttle (STS)
+Carl Meade,United States,STS-50,1992,Space Shuttle (STS)
+Carl Meade,United States,STS-64,1994,Space Shuttle (STS)
+Kathryn Hire,United States,STS-90,1998,Space Shuttle (STS)
+Kathryn Hire,United States,STS-130,2010,Space Shuttle (STS)
+Kevin P. Chilton,United States,STS-49,1992,Space Shuttle (STS)
+Kevin P. Chilton,United States,STS-59,1994,Space Shuttle (STS)
+Kevin P. Chilton,United States,STS-76,1996,Space Shuttle (STS)
+"Jean-François Clervoy, EAC",France,STS-66,1994,Space Shuttle (STS)
+"Jean-François Clervoy, EAC",France,STS-84,1997,Space Shuttle (STS)
+"Jean-François Clervoy, EAC",France,STS-103,1999,Space Shuttle (STS)
+Marc Garneau,Canada,STS-41-G,1984,Space Shuttle (STS)
+Marc Garneau,Canada,STS-77,1996,Space Shuttle (STS)
+Marc Garneau,Canada,STS-97,2000,Space Shuttle (STS)
+George D. Zamka,United States,STS-120,2007,Space Shuttle (STS)
+George D. Zamka,United States,STS-130,2010,Space Shuttle (STS)
+Vladislav Volkov,Soviet Union,Soyuz 7,1969,Soyuz
+Vladislav Volkov,Soviet Union,Soyuz 11,1971,Soyuz
+Guion Bluford,United States,STS-8,1983,Space Shuttle (STS)
+Guion Bluford,United States,STS-61-A,1985,Space Shuttle (STS)
+Guion Bluford,United States,STS-39,1991,Space Shuttle (STS)
+Guion Bluford,United States,STS-53,1992,Space Shuttle (STS)
+"Dafydd Williams, M.D.",Canada,STS-90,1998,Space Shuttle (STS)
+"Dafydd Williams, M.D.",Canada,STS-118,2007,Space Shuttle (STS)
+Eric A. Boe,United States,STS-126,2008,Space Shuttle (STS)
+Eric A. Boe,United States,STS-133,2011,Space Shuttle (STS)
+Paul Lockhart,United States,STS-111,2002,Space Shuttle (STS)
+Paul Lockhart,United States,STS-113,2002,Space Shuttle (STS)
+"Ellen S. Baker, M.D.",United States,STS-34,1989,Space Shuttle (STS)
+"Ellen S. Baker, M.D.",United States,STS-50,1992,Space Shuttle (STS)
+"Ellen S. Baker, M.D.",United States,STS-71,1995,Space Shuttle (STS)
+Charles Bolden,United States,STS-61-C,1986,Space Shuttle (STS)
+Charles Bolden,United States,STS-31,1990,Space Shuttle (STS)
+Charles Bolden,United States,STS-45,1992,Space Shuttle (STS)
+Charles Bolden,United States,STS-60,1994,Space Shuttle (STS)
+Nancy Jan Davis,United States,STS-47,1992,Space Shuttle (STS)
+Nancy Jan Davis,United States,STS-60,1994,Space Shuttle (STS)
+Nancy Jan Davis,United States,STS-85,1997,Space Shuttle (STS)
+"Joseph Kerwin, M.D.",United States,Skylab 2,1973,Other / Unclassified
+William Readdy,United States,STS-42,1992,Space Shuttle (STS)
+William Readdy,United States,STS-51,1993,Space Shuttle (STS)
+William Readdy,United States,STS-79,1996,Space Shuttle (STS)
+Alan G. Poindexter,United States,STS-122,2008,Space Shuttle (STS)
+Alan G. Poindexter,United States,STS-131,2010,Space Shuttle (STS)
+Michael R. Clifford,United States,STS-53,1992,Space Shuttle (STS)
+Michael R. Clifford,United States,STS-59,1994,Space Shuttle (STS)
+Michael R. Clifford,United States,STS-76,1996,Space Shuttle (STS)
+John D. Olivas,United States,STS-117,2007,Space Shuttle (STS)
+John D. Olivas,United States,STS-128,2009,Space Shuttle (STS)
+Jeffrey Ashby,United States,STS-93,1999,Space Shuttle (STS)
+Jeffrey Ashby,United States,STS-100,2001,Space Shuttle (STS)
+Jeffrey Ashby,United States,STS-112,2002,Space Shuttle (STS)
+Heidemarie Stefanyshyn-Piper,United States,STS-115,2006,Space Shuttle (STS)
+Heidemarie Stefanyshyn-Piper,United States,STS-126,2008,Space Shuttle (STS)
+Umberto Guidoni,Italy,STS-75,1996,Space Shuttle (STS)
+Umberto Guidoni,Italy,STS-100,2001,Space Shuttle (STS)
+Pierre Thuot,United States,STS-36,1990,Space Shuttle (STS)
+Pierre Thuot,United States,STS-49,1992,Space Shuttle (STS)
+Pierre Thuot,United States,STS-62,1994,Space Shuttle (STS)
+Richard O. Covey,United States,STS-51-I,1985,Space Shuttle (STS)
+Richard O. Covey,United States,STS-26,1988,Space Shuttle (STS)
+Richard O. Covey,United States,STS-38,1990,Space Shuttle (STS)
+Richard O. Covey,United States,STS-61,1993,Space Shuttle (STS)
+Christer Fuglesang,Sweden,STS-116,2006,Space Shuttle (STS)
+Christer Fuglesang,Sweden,STS-128,2009,Space Shuttle (STS)
+James M. Kelly,United States,STS-102,2001,Space Shuttle (STS)
+James M. Kelly,United States,STS-114,2005,Space Shuttle (STS)
+Nicole Marie Passonno Stott,United States,STS-128,2009,Space Shuttle (STS)
+Nicole Marie Passonno Stott,United States,STS-133,2011,Space Shuttle (STS)
+Lee Archambault,United States,STS-117,2007,Space Shuttle (STS)
+Lee Archambault,United States,STS-119,2009,Space Shuttle (STS)
+Nicholas Patrick,United States,STS-116,2006,Space Shuttle (STS)
+Nicholas Patrick,United States,STS-130,2010,Space Shuttle (STS)
+Charles Simonyi,Hungary,Soyuz TMA-10,2007,Soyuz
+Charles Simonyi,Hungary,Soyuz TMA-14,2009,Soyuz
+Michael Foreman,United States,STS-123,2008,Space Shuttle (STS)
+Michael Foreman,United States,STS-129,2009,Space Shuttle (STS)
+Ronald Grabe,United States,STS-51-J,1985,Space Shuttle (STS)
+Ronald Grabe,United States,STS-30,1989,Space Shuttle (STS)
+Ronald Grabe,United States,STS-42,1992,Space Shuttle (STS)
+Ronald Grabe,United States,STS-57,1993,Space Shuttle (STS)
+"Claudie Haigneré, EAC",France,Soyuz TM-24,1996,Soyuz
+"Claudie Haigneré, EAC",France,Soyuz TM-33,2001,Soyuz
+Ronald A. Parise,United States,STS-35,1990,Space Shuttle (STS)
+Ronald A. Parise,United States,STS-67,1995,Space Shuttle (STS)
+Samuel T. Durrance,United States,STS-35,1990,Space Shuttle (STS)
+Samuel T. Durrance,United States,STS-67,1995,Space Shuttle (STS)
+Rick Husband,United States,STS-96,1999,Space Shuttle (STS)
+Rick Husband,United States,STS-107,2003,Space Shuttle (STS)
+B. Alvin Drew,United States,STS-118,2007,Space Shuttle (STS)
+B. Alvin Drew,United States,STS-133,2011,Space Shuttle (STS)
+Kenneth Ham,United States,STS-124,2008,Space Shuttle (STS)
+Kenneth Ham,United States,STS-132,2010,Space Shuttle (STS)
+Julie Payette,Canada,STS-96,1999,Space Shuttle (STS)
+Julie Payette,Canada,STS-127,2009,Space Shuttle (STS)
+Donald McMonagle,United States,STS-39,1991,Space Shuttle (STS)
+Donald McMonagle,United States,STS-54,1993,Space Shuttle (STS)
+Donald McMonagle,United States,STS-66,1994,Space Shuttle (STS)
+Michael P. Anderson,United States,STS-89,1998,Space Shuttle (STS)
+Michael P. Anderson,United States,STS-107,2003,Space Shuttle (STS)
+Michael T. Good,United States,STS-125,2009,Space Shuttle (STS)
+Michael T. Good,United States,STS-132,2010,Space Shuttle (STS)
+Winston Scott,United States,STS-72,1996,Space Shuttle (STS)
+Winston Scott,United States,STS-87,1997,Space Shuttle (STS)
+Dominic A. Antonelli,United States,STS-119,2009,Space Shuttle (STS)
+Dominic A. Antonelli,United States,STS-132,2010,Space Shuttle (STS)
+Charles Gemar,United States,STS-38,1990,Space Shuttle (STS)
+Charles Gemar,United States,STS-48,1991,Space Shuttle (STS)
+Charles Gemar,United States,STS-62,1994,Space Shuttle (STS)
+Georgi Dobrovolski,Soviet Union,Soyuz 11,1971,Soyuz
+Viktor Patsayev,Soviet Union,Soyuz 11,1971,Soyuz
+Michael Massimino,United States,STS-109,2002,Space Shuttle (STS)
+Michael Massimino,United States,STS-125,2009,Space Shuttle (STS)
+"Chiaki Mukai, M.D.",Japan,STS-65,1994,Space Shuttle (STS)
+"Chiaki Mukai, M.D.",Japan,STS-95,1998,Space Shuttle (STS)
+Stephen Frick,United States,STS-110,2002,Space Shuttle (STS)
+Stephen Frick,United States,STS-122,2008,Space Shuttle (STS)
+Eugene Cernan,United States,Gemini 9A,1966,Other / Unclassified
+Eugene Cernan,United States,Apollo 10,1969,Other / Unclassified
+Eugene Cernan,United States,Apollo 17,1972,Other / Unclassified
+Robert Crippen,United States,STS-1,1981,Space Shuttle (STS)
+Robert Crippen,United States,STS-7,1983,Space Shuttle (STS)
+Robert Crippen,United States,STS-41-C,1984,Space Shuttle (STS)
+Robert Crippen,United States,STS-41-G,1984,Space Shuttle (STS)
+Leland D. Melvin,United States,STS-122,2008,Space Shuttle (STS)
+Leland D. Melvin,United States,STS-129,2009,Space Shuttle (STS)
+Kenneth D. Cameron,United States,STS-37,1991,Space Shuttle (STS)
+Kenneth D. Cameron,United States,STS-56,1993,Space Shuttle (STS)
+Kenneth D. Cameron,United States,STS-74,1995,Space Shuttle (STS)
+"Mario Runco, Jr.",United States,STS-44,1991,Space Shuttle (STS)
+"Mario Runco, Jr.",United States,STS-54,1993,Space Shuttle (STS)
+"Mario Runco, Jr.",United States,STS-77,1996,Space Shuttle (STS)
+David Scott,United States,Gemini 8,1966,Other / Unclassified
+David Scott,United States,Apollo 9,1969,Other / Unclassified
+David Scott,United States,Apollo 15,1971,Other / Unclassified
+Hans Schlegel,Germany,STS-55,1993,Space Shuttle (STS)
+Hans Schlegel,Germany,STS-122,2008,Space Shuttle (STS)
+Kathryn Sullivan,United States,STS-41-G,1984,Space Shuttle (STS)
+Kathryn Sullivan,United States,STS-31,1990,Space Shuttle (STS)
+Kathryn Sullivan,United States,STS-45,1992,Space Shuttle (STS)
+Brewster Shaw,United States,STS-9,1983,Space Shuttle (STS)
+Brewster Shaw,United States,STS-61-B,1985,Space Shuttle (STS)
+Brewster Shaw,United States,STS-28,1989,Space Shuttle (STS)
+David Leestma,United States,STS-41-G,1984,Space Shuttle (STS)
+David Leestma,United States,STS-28,1989,Space Shuttle (STS)
+David Leestma,United States,STS-45,1992,Space Shuttle (STS)
+Andriyan Nikolayev,Soviet Union,Vostok 3,1962,Vostok/Voskhod
+Andriyan Nikolayev,Soviet Union,Soyuz 9,1970,Soyuz
+Steven MacLean,Canada,STS-52,1992,Space Shuttle (STS)
+Steven MacLean,Canada,STS-115,2006,Space Shuttle (STS)
+"Thomas Kenneth ""Ken"" Mattingly II",United States,Apollo 16,1972,Other / Unclassified
+"Thomas Kenneth ""Ken"" Mattingly II",United States,STS-4,1982,Space Shuttle (STS)
+"Thomas Kenneth ""Ken"" Mattingly II",United States,STS-51-C,1985,Space Shuttle (STS)
+Thomas Patten Stafford,United States,Gemini 6A,1965,Other / Unclassified
+Thomas Patten Stafford,United States,Gemini 9A,1966,Other / Unclassified
+Thomas Patten Stafford,United States,Apollo 10,1969,Other / Unclassified
+Thomas Patten Stafford,United States,Apollo-Soyuz Test Project,1975,Other / Unclassified
+Valery Bykovsky,Soviet Union,Vostok 5,1963,Vostok/Voskhod
+Valery Bykovsky,Soviet Union,Soyuz 22,1976,Soyuz
+Valery Bykovsky,Soviet Union,Soyuz 31,1978,Soyuz
+Oleg Makarov,Soviet Union,Soyuz 12,1973,Soyuz
+Oleg Makarov,Soviet Union,Soyuz 18-1,1975,Soyuz
+Oleg Makarov,Soviet Union,Soyuz 27,1978,Soyuz
+Oleg Makarov,Soviet Union,Soyuz T-3,1980,Soyuz
+David Hilmers,United States,STS-51-J,1985,Space Shuttle (STS)
+David Hilmers,United States,STS-26,1988,Space Shuttle (STS)
+David Hilmers,United States,STS-36,1990,Space Shuttle (STS)
+David Hilmers,United States,STS-42,1992,Space Shuttle (STS)
+James Buchli,United States,STS-51-C,1985,Space Shuttle (STS)
+James Buchli,United States,STS-61-A,1985,Space Shuttle (STS)
+James Buchli,United States,STS-29,1989,Space Shuttle (STS)
+James Buchli,United States,STS-48,1991,Space Shuttle (STS)
+Sidney Gutierrez,United States,STS-40,1991,Space Shuttle (STS)
+Sidney Gutierrez,United States,STS-59,1994,Space Shuttle (STS)
+Henry Hartsfield,United States,STS-4,1982,Space Shuttle (STS)
+Henry Hartsfield,United States,STS-41-D,1984,Space Shuttle (STS)
+Henry Hartsfield,United States,STS-61-A,1985,Space Shuttle (STS)
+John Lounge,United States,STS-51-I,1985,Space Shuttle (STS)
+John Lounge,United States,STS-26,1988,Space Shuttle (STS)
+John Lounge,United States,STS-35,1990,Space Shuttle (STS)
+Carlos I. Noriega,Peru,STS-84,1997,Space Shuttle (STS)
+Carlos I. Noriega,Peru,STS-97,2000,Space Shuttle (STS)
+Charles D. Walker,United States,STS-41-D,1984,Space Shuttle (STS)
+Charles D. Walker,United States,STS-51-D,1985,Space Shuttle (STS)
+Charles D. Walker,United States,STS-61-B,1985,Space Shuttle (STS)
+Frank Borman,United States,Gemini 7,1965,Other / Unclassified
+Frank Borman,United States,Apollo 8,1968,Other / Unclassified
+Yuri Baturin,Russia,Soyuz TM-28,1998,Soyuz
+Yuri Baturin,Russia,Soyuz TM-32,2001,Soyuz
+Svetlana Savitskaya,Soviet Union,Soyuz T-7,1982,Soyuz
+Svetlana Savitskaya,Soviet Union,Soyuz T-12,1984,Soyuz
+Reinhold Ewald,Germany,Soyuz TM-25,1997,Soyuz
+Roger K. Crouch,United States,STS-83,1997,Space Shuttle (STS)
+Roger K. Crouch,United States,STS-94,1997,Space Shuttle (STS)
+Susan Still Kilrain,United States,STS-83,1997,Space Shuttle (STS)
+Susan Still Kilrain,United States,STS-94,1997,Space Shuttle (STS)
+Gregory Linteris,United States,STS-83,1997,Space Shuttle (STS)
+Gregory Linteris,United States,STS-94,1997,Space Shuttle (STS)
+Niè Hǎishèng,China,Shenzhou 6,2005,Shenzhou
+Niè Hǎishèng,China,Shenzhou 10,2013,Shenzhou
+Michael Coats,United States,STS-41-D,1984,Space Shuttle (STS)
+Michael Coats,United States,STS-29,1989,Space Shuttle (STS)
+Michael Coats,United States,STS-39,1991,Space Shuttle (STS)
+Lloyd Hammond,United States,STS-39,1991,Space Shuttle (STS)
+Lloyd Hammond,United States,STS-64,1994,Space Shuttle (STS)
+Robert Parker,United States,STS-9,1983,Space Shuttle (STS)
+Robert Parker,United States,STS-35,1990,Space Shuttle (STS)
+Byron Lichtenberg,United States,STS-9,1983,Space Shuttle (STS)
+Byron Lichtenberg,United States,STS-45,1992,Space Shuttle (STS)
+Mamoru Mohri,Japan,STS-47,1992,Space Shuttle (STS)
+Mamoru Mohri,Japan,STS-99,2000,Space Shuttle (STS)
+Frederick Gregory,United States,STS-51-B,1985,Space Shuttle (STS)
+Frederick Gregory,United States,STS-33,1989,Space Shuttle (STS)
+Frederick Gregory,United States,STS-44,1991,Space Shuttle (STS)
+Pedro Duque,Spain,STS-95,1998,Space Shuttle (STS)
+Pedro Duque,Spain,Soyuz TMA-3,2003,Soyuz
+Mary Ellen Weber,United States,STS-70,1995,Space Shuttle (STS)
+Mary Ellen Weber,United States,STS-101,2000,Space Shuttle (STS)
+Valeri Kubasov,Soviet Union,Soyuz 6,1969,Soyuz
+Valeri Kubasov,Soviet Union,Soyuz 19,1975,Soyuz
+Valeri Kubasov,Soviet Union,Soyuz 36,1980,Soyuz
+"Michel Tognini, EAC",France,Soyuz TM-15,1992,Soyuz
+"Michel Tognini, EAC",France,STS-93,1999,Space Shuttle (STS)
+Pavel Popovich,Soviet Union,Vostok 4,1962,Vostok/Voskhod
+Pavel Popovich,Soviet Union,Soyuz 14,1974,Soyuz
+"Bernard A. Harris, Jr.",United States,STS-55,1993,Space Shuttle (STS)
+"Bernard A. Harris, Jr.",United States,STS-63,1995,Space Shuttle (STS)
+Frederick Hauck,United States,STS-7,1983,Space Shuttle (STS)
+Frederick Hauck,United States,STS-51-A,1984,Space Shuttle (STS)
+Frederick Hauck,United States,STS-26,1988,Space Shuttle (STS)
+Charles Veach,United States,STS-39,1991,Space Shuttle (STS)
+Charles Veach,United States,STS-52,1992,Space Shuttle (STS)
+Yuri Glazkov,Soviet Union,Soyuz 24,1977,Soyuz
+Ronald Sega,United States,STS-60,1994,Space Shuttle (STS)
+Ronald Sega,United States,STS-76,1996,Space Shuttle (STS)
+George Nelson,United States,STS-41-C,1984,Space Shuttle (STS)
+George Nelson,United States,STS-61-C,1986,Space Shuttle (STS)
+George Nelson,United States,STS-26,1988,Space Shuttle (STS)
+"Charles E. Brady, Jr., M.D.",United States,STS-78,1996,Space Shuttle (STS)
+Jean-Jacques Favier,France,STS-78,1996,Space Shuttle (STS)
+John O. Creighton,United States,STS-51-G,1985,Space Shuttle (STS)
+John O. Creighton,United States,STS-36,1990,Space Shuttle (STS)
+John O. Creighton,United States,STS-48,1991,Space Shuttle (STS)
+William Gregory,United States,STS-67,1995,Space Shuttle (STS)
+Karol Bobko,United States,STS-6,1983,Space Shuttle (STS)
+Karol Bobko,United States,STS-51-D,1985,Space Shuttle (STS)
+Karol Bobko,United States,STS-51-J,1985,Space Shuttle (STS)
+Loren Shriver,United States,STS-51-C,1985,Space Shuttle (STS)
+Loren Shriver,United States,STS-31,1990,Space Shuttle (STS)
+Loren Shriver,United States,STS-46,1992,Space Shuttle (STS)
+Bryan O'Connor,United States,STS-61-B,1985,Space Shuttle (STS)
+Bryan O'Connor,United States,STS-40,1991,Space Shuttle (STS)
+Charles Fullerton,United States,STS-3,1982,Space Shuttle (STS)
+Charles Fullerton,United States,STS-51-F,1985,Space Shuttle (STS)
+William C. McCool,United States,STS-107,2003,Space Shuttle (STS)
+Ilan Ramon,Israel,STS-107,2003,Space Shuttle (STS)
+David M. Brown,United States,STS-107,2003,Space Shuttle (STS)
+"Laurel B. Clark, M.D.",United States,STS-107,2003,Space Shuttle (STS)
+Albert Sacco,United States,STS-73,1995,Space Shuttle (STS)
+"Jay C. Buckey, M.D.",United States,STS-90,1998,Space Shuttle (STS)
+Frederick W. Leslie,United States,STS-73,1995,Space Shuttle (STS)
+James Pawelczyk,United States,STS-90,1998,Space Shuttle (STS)
+Maurizio Cheli,Italy,STS-75,1996,Space Shuttle (STS)
+Yuri Artyukhin,Soviet Union,Soyuz 14,1974,Soyuz
+Leonid Kadeniuk,Ukraine,STS-87,1997,Space Shuttle (STS)
+James Dutton,United States,STS-131,2010,Space Shuttle (STS)
+Dorothy M. Metcalf-Lindenburger,United States,STS-131,2010,Space Shuttle (STS)
+Naoko Yamazaki,Japan,STS-131,2010,Space Shuttle (STS)
+Richard Mullane,United States,STS-41-D,1984,Space Shuttle (STS)
+Richard Mullane,United States,STS-27,1988,Space Shuttle (STS)
+Richard Mullane,United States,STS-36,1990,Space Shuttle (STS)
+John Herrington,United States,STS-113,2002,Space Shuttle (STS)
+Wang Yaping,China,Shenzhou 10,2013,Shenzhou
+Zhang Xiaoguang,China,Shenzhou 10,2013,Shenzhou
+Sally Ride,United States,STS-7,1983,Space Shuttle (STS)
+Sally Ride,United States,STS-41-G,1984,Space Shuttle (STS)
+James McDivitt,United States,Gemini 4,1965,Other / Unclassified
+James McDivitt,United States,Apollo 9,1969,Other / Unclassified
+"James ""Ox"" van Hoften",United States,STS-41-C,1984,Space Shuttle (STS)
+"James ""Ox"" van Hoften",United States,STS-51-I,1985,Space Shuttle (STS)
+"James P. Bagian, M.D.",United States,STS-29,1989,Space Shuttle (STS)
+"James P. Bagian, M.D.",United States,STS-40,1991,Space Shuttle (STS)
+Dale Gardner,United States,STS-8,1983,Space Shuttle (STS)
+Dale Gardner,United States,STS-51-A,1984,Space Shuttle (STS)
+Martin J. Fettman,United States,STS-58,1993,Space Shuttle (STS)
+James Adamson,United States,STS-28,1989,Space Shuttle (STS)
+James Adamson,United States,STS-43,1991,Space Shuttle (STS)
+Charles Camarda,United States,STS-114,2005,Space Shuttle (STS)
+José Hernández,United States,STS-128,2009,Space Shuttle (STS)
+"Philippe Perrin, EAC",France,STS-111,2002,Space Shuttle (STS)
+Eugene Trinh,United States,STS-50,1992,Space Shuttle (STS)
+Lawrence J. DeLucas,United States,STS-50,1992,Space Shuttle (STS)
+Kenneth Reightler,United States,STS-48,1991,Space Shuttle (STS)
+Kenneth Reightler,United States,STS-60,1994,Space Shuttle (STS)
+Guy Gardner,United States,STS-27,1988,Space Shuttle (STS)
+Guy Gardner,United States,STS-35,1990,Space Shuttle (STS)
+John Fabian,United States,STS-7,1983,Space Shuttle (STS)
+John Fabian,United States,STS-51-G,1985,Space Shuttle (STS)
+Richard Gordon,United States,Gemini 11,1966,Other / Unclassified
+Richard Gordon,United States,Apollo 12,1969,Other / Unclassified
+Joseph P. Allen,United States,STS-5,1982,Space Shuttle (STS)
+Joseph P. Allen,United States,STS-51-A,1984,Space Shuttle (STS)
+Bruce Melnick,United States,STS-41,1990,Space Shuttle (STS)
+Bruce Melnick,United States,STS-49,1992,Space Shuttle (STS)
+"William E. Thornton, M.D.",United States,STS-8,1983,Space Shuttle (STS)
+"William E. Thornton, M.D.",United States,STS-51-B,1985,Space Shuttle (STS)
+Bruce McCandless II,United States,STS-41-B,1984,Space Shuttle (STS)
+Bruce McCandless II,United States,STS-31,1990,Space Shuttle (STS)
+Gregory C. Johnson,United States,STS-125,2009,Space Shuttle (STS)
+William Oefelein,United States,STS-116,2006,Space Shuttle (STS)
+Joan Higginbotham,United States,STS-116,2006,Space Shuttle (STS)
+Paul W. Richards,United States,STS-102,2001,Space Shuttle (STS)
+Lisa Nowak,United States,STS-121,2006,Space Shuttle (STS)
+Stanley G. Love,United States,STS-122,2008,Space Shuttle (STS)
+Barbara Morgan,United States,STS-118,2007,Space Shuttle (STS)
+Liu Yang,China,Shenzhou 9,2012,Shenzhou
+Liu Wang,China,Shenzhou 9,2012,Shenzhou
+Harrison Schmitt,United States,Apollo 17,1972,Other / Unclassified
+Ronald Evans,United States,Apollo 17,1972,Other / Unclassified
+Walter Schirra,United States,Mercury-Atlas 8,1962,Other / Unclassified
+Walter Schirra,United States,Gemini 6A,1965,Other / Unclassified
+Walter Schirra,United States,Apollo 7,1968,Other / Unclassified
+Alfred Worden,United States,Apollo 15,1971,Other / Unclassified
+James Irwin,United States,Apollo 15,1971,Other / Unclassified
+Robert Overmyer,United States,STS-5,1982,Space Shuttle (STS)
+Robert Overmyer,United States,STS-51-B,1985,Space Shuttle (STS)
+Buzz Aldrin,United States,Gemini 12,1966,Other / Unclassified
+Buzz Aldrin,United States,Apollo 11,1969,Other / Unclassified
+Robert Stewart,United States,STS-41-B,1984,Space Shuttle (STS)
+Robert Stewart,United States,STS-51-J,1985,Space Shuttle (STS)
+Donald Williams,United States,STS-51-D,1985,Space Shuttle (STS)
+Donald Williams,United States,STS-34,1989,Space Shuttle (STS)
+Richard Garriott,United States,Soyuz TMA-13,2008,Soyuz
+Bjarni Tryggvason,Canada,STS-85,1997,Space Shuttle (STS)
+Vladimir Aksyonov,Soviet Union,Soyuz 22,1976,Soyuz
+Vladimir Aksyonov,Soviet Union,Soyuz T-2,1980,Soyuz
+Yuri Malyshev,Soviet Union,Soyuz T-2,1980,Soyuz
+Yuri Malyshev,Soviet Union,Soyuz T-11,1984,Soyuz
+Igor Volk,Soviet Union,Soyuz T-12,1984,Soyuz
+Gerhard Thiele,Germany,STS-99,2000,Space Shuttle (STS)
+Michael Collins,United States,Gemini 10,1966,Other / Unclassified
+Michael Collins,United States,Apollo 11,1969,Other / Unclassified
+Charles Duke,United States,Apollo 16,1972,Other / Unclassified
+Duane G. Carey,United States,STS-109,2002,Space Shuttle (STS)
+Mary L. Cleave,United States,STS-61-B,1985,Space Shuttle (STS)
+Mary L. Cleave,United States,STS-30,1989,Space Shuttle (STS)
+Guy Laliberté,Canada,Soyuz TMA-16,2009,Soyuz
+Anatoly Filipchenko,Soviet Union,Soyuz 7,1969,Soyuz
+Anatoly Filipchenko,Soviet Union,Soyuz 16,1974,Soyuz
+Yi So-yeon,South Korea,Soyuz TMA-12,2008,Soyuz
+Anousheh Ansari,Iran,Soyuz TMA-9,2006,Soyuz
+"Sheikh Muszaphar Shukor, M.D.",Malaysia,Soyuz TMA-11,2007,Soyuz
+Donn F. Eisele,United States,Apollo 7,1968,Other / Unclassified
+Walter Cunningham,United States,Apollo 7,1968,Other / Unclassified
+Lee Morin,United States,STS-110,2002,Space Shuttle (STS)
+"Robert Satcher, M.D.",United States,STS-129,2009,Space Shuttle (STS)
+Boris Morukov,Russia,STS-106,2000,Space Shuttle (STS)
+Mark Brown,United States,STS-28,1989,Space Shuttle (STS)
+Mark Brown,United States,STS-48,1991,Space Shuttle (STS)
+Rusty Schweickart,United States,Apollo 9,1969,Other / Unclassified
+Ulrich Walter,Germany,STS-55,1993,Space Shuttle (STS)
+Vladimir Shatalov,Soviet Union,Soyuz 4,1969,Soyuz
+Vladimir Shatalov,Soviet Union,Soyuz 8,1969,Soyuz
+Vladimir Shatalov,Soviet Union,Soyuz 10,1971,Soyuz
+Yuri Shargin,Russia,Soyuz TMA-5,2004,Soyuz
+Robert Springer,United States,STS-29,1989,Space Shuttle (STS)
+Robert Springer,United States,STS-38,1990,Space Shuttle (STS)
+Mark Shuttleworth,South Africa,Soyuz TM-34,2002,Soyuz
+Marcos Pontes,Brazil,Soyuz TMA-8,2006,Soyuz
+Gregory Olsen,United States,Soyuz TMA-7,2005,Soyuz
+Nikolay Rukavishnikov,Soviet Union,Soyuz 10,1971,Soyuz
+Nikolay Rukavishnikov,Soviet Union,Soyuz 16,1974,Soyuz
+Nikolay Rukavishnikov,Soviet Union,Soyuz 33,1979,Soyuz
+Konstantin Kozeyev,Russia,Soyuz TM-33,2001,Soyuz
+"L. Gordon Cooper, Jr.",United States,Mercury-Atlas 9,1963,Other / Unclassified
+"L. Gordon Cooper, Jr.",United States,Gemini 5,1965,Other / Unclassified
+Joe H. Engle,United States,STS-2,1981,Space Shuttle (STS)
+Joe H. Engle,United States,STS-51-I,1985,Space Shuttle (STS)
+John Glenn,United States,Mercury-Atlas 6,1962,Other / Unclassified
+John Glenn,United States,STS-95,1998,Space Shuttle (STS)
+Millie Hughes-Fulford,United States,STS-40,1991,Space Shuttle (STS)
+"F. Drew Gaffney, M.D.",United States,STS-40,1991,Space Shuttle (STS)
+"Donald ""Deke"" Slayton",United States,Apollo-Soyuz Test Project,1975,Other / Unclassified
+Alan Shepard,United States,Mercury-Redstone 3,1961,Other / Unclassified
+Alan Shepard,United States,Apollo 14,1971,Other / Unclassified
+Edgar Mitchell,United States,Apollo 14,1971,Other / Unclassified
+Stuart Roosa,United States,Apollo 14,1971,Other / Unclassified
+Aleksei Yeliseyev,Soviet Union,Soyuz 5,1969,Soyuz
+Aleksei Yeliseyev,Soviet Union,Soyuz 8,1969,Soyuz
+Aleksei Yeliseyev,Soviet Union,Soyuz 10,1971,Soyuz
+Dirk Frimout,Belgium,STS-45,1992,Space Shuttle (STS)
+Abdul Ahad Mohmand,Afghanistan,Soyuz TM-6,1988,Soyuz
+Joe Edwards,United States,STS-89,1998,Space Shuttle (STS)
+Neil Armstrong,United States,Gemini 8,1966,Other / Unclassified
+Neil Armstrong,United States,Apollo 11,1969,Other / Unclassified
+Richard Truly,United States,STS-2,1981,Space Shuttle (STS)
+Richard Truly,United States,STS-8,1983,Space Shuttle (STS)
+Paul Scully-Power,United States,STS-41-G,1984,Space Shuttle (STS)
+Jon McBride,United States,STS-41-G,1984,Space Shuttle (STS)
+"Roberta Bondar, M.D.",Canada,STS-42,1992,Space Shuttle (STS)
+"Anna Lee Fisher, M.D.",United States,STS-51-A,1984,Space Shuttle (STS)
+Ronald McNair,United States,STS-41-B,1984,Space Shuttle (STS)
+Franco Malerba,Italy,STS-46,1992,Space Shuttle (STS)
+Muhammed Faris,Syria,Soyuz TM-3,1987,Soyuz
+Loren Acton,United States,STS-51-F,1985,Space Shuttle (STS)
+Anthony W. England,United States,STS-51-F,1985,Space Shuttle (STS)
+John-David F. Bartoe,United States,STS-51-F,1985,Space Shuttle (STS)
+Roy Bridges,United States,STS-51-F,1985,Space Shuttle (STS)
+Karl Henize,United States,STS-51-F,1985,Space Shuttle (STS)
+"Mae Jemison, M.D.",United States,STS-47,1992,Space Shuttle (STS)
+Toktar Aubakirov,Soviet Union,Soyuz TM-13,1991,Soyuz
+Franz Viehböck,Austria,Soyuz TM-13,1991,Soyuz
+Vladimír Remek,Czechoslovakia,Soyuz 28,1978,Soyuz
+Anatoli Levchenko,Soviet Union,Soyuz TM-4,1987,Soyuz
+Dennis Tito,United States,Soyuz TM-32,2001,Soyuz
+Miroslaw Hermaszewski,Poland,Soyuz 30,1978,Soyuz
+Ivan Bella,Slovakia,Soyuz TM-29,1999,Soyuz
+Rakesh Sharma,India,Soyuz T-11,1984,Soyuz
+Helen Sharman,United Kingdom,Soyuz TM-12,1991,Soyuz
+Hazza Al Mansouri,United Arab Emirates,Soyuz MS-15,2019,Soyuz
+Sigmund Jähn,East Germany,Soyuz 31,1978,Soyuz
+Jügderdemidiin Gürragchaa,Mongolia,Soyuz 39,1981,Soyuz
+Phạm Tuân,Vietnam,Soyuz 37,1980,Soyuz
+Bertalan Farkas,Hungary,Soyuz 36,1980,Soyuz
+Dumitru Prunariu,Romania,Soyuz 40,1981,Soyuz
+Arnaldo Tamayo Méndez,Cuba,Soyuz 38,1980,Soyuz
+"William Frederick Fisher, M.D.",United States,STS-51-I,1985,Space Shuttle (STS)
+Patrick Baudry,France,STS-51-G,1985,Space Shuttle (STS)
+Sultan bin Salman bin Abdulaziz Al Saud,Saudi Arabia,STS-51-G,1985,Space Shuttle (STS)
+Reinhard Furrer,Germany,STS-61-A,1985,Space Shuttle (STS)
+Ernst Messerschmid,Germany,STS-61-A,1985,Space Shuttle (STS)
+Wubbo Ockels,Netherlands,STS-61-A,1985,Space Shuttle (STS)
+Aleksei Leonov,Soviet Union,Voskhod 2,1965,Vostok/Voskhod
+Aleksei Leonov,Soviet Union,Soyuz 19,1975,Soyuz
+Don Lind,United States,STS-51-B,1985,Space Shuttle (STS)
+Lodewijk van den Berg,United States,STS-51-B,1985,Space Shuttle (STS)
+Taylor Wang,United States,STS-51-B,1985,Space Shuttle (STS)
+Edwin J. Garn,United States,STS-51-D,1985,Space Shuttle (STS)
+David Griggs,United States,STS-51-D,1985,Space Shuttle (STS)
+Terry Hart,United States,STS-41-C,1984,Space Shuttle (STS)
+Dick Scobee,United States,STS-41-C,1984,Space Shuttle (STS)
+Thomas Hennen,United States,STS-44,1991,Space Shuttle (STS)
+Rodolfo Neri Vela,Mexico,STS-61-B,1985,Space Shuttle (STS)
+Sherwood Spring,United States,STS-61-B,1985,Space Shuttle (STS)
+William Anders,United States,Apollo 8,1968,Other / Unclassified
+Robert J. Cenker,United States,STS-61-C,1986,Space Shuttle (STS)
+Judith Resnik,United States,STS-41-D,1984,Space Shuttle (STS)
+Judith Resnik,United States,STS-51-L,1986,Space Shuttle (STS)
+"John ""Jack"" Swigert",United States,Apollo 13,1970,Other / Unclassified
+Fred Haise,United States,Apollo 13,1970,Other / Unclassified
+William B. Lenoir,United States,STS-5,1982,Space Shuttle (STS)
+Donald Peterson,United States,STS-6,1983,Space Shuttle (STS)
+"Sonny Carter, M.D.",United States,STS-33,1989,Space Shuttle (STS)
+Michael J. McCulley,United States,STS-34,1989,Space Shuttle (STS)
+Georgi Shonin,Soviet Union,Soyuz 6,1969,Soyuz
+Fei Junlong,China,Shenzhou 6,2005,Shenzhou
+Edward White,United States,Gemini 4,1965,Other / Unclassified
+William Pailes,United States,STS-51-J,1985,Space Shuttle (STS)
+Georgi Beregovoi,Soviet Union,Soyuz 3,1968,Soyuz
+Gary Payton,United States,STS-51-C,1985,Space Shuttle (STS)
+Ellison Onizuka,United States,STS-51-C,1985,Space Shuttle (STS)
+Valentina Tereshkova,Soviet Union,Vostok 6,1963,Vostok/Voskhod
+Liu Boming,China,Shenzhou 7,2008,Shenzhou
+Zhai Zhigang,China,Shenzhou 7,2008,Shenzhou
+Vladimir Komarov,Soviet Union,Voskhod 1,1964,Vostok/Voskhod
+Vladimir Komarov,Soviet Union,Soyuz 1,1967,Soyuz
+Lev Dyomin,Soviet Union,Soyuz 15,1974,Soyuz
+Gennadi Sarafanov,Soviet Union,Soyuz 15,1974,Soyuz
+Vyacheslav Zudov,Soviet Union,Soyuz 23,1976,Soyuz
+Valery Rozhdestvensky,Soviet Union,Soyuz 23,1976,Soyuz
+Yevgeny Khrunov,Soviet Union,Soyuz 5,1969,Soyuz
+Vasili Lazarev,Soviet Union,Soyuz 12,1973,Soyuz
+Vasili Lazarev,Soviet Union,Soyuz 18-1,1975,Soyuz
+Georgi Ivanov,Bulgaria,Soyuz 33,1979,Soyuz
+Pavel Belyayev,Soviet Union,Voskhod 2,1965,Vostok/Voskhod
+Gherman Titov,Soviet Union,Vostok 2,1961,Vostok/Voskhod
+"Boris Yegorov, M.D.",Soviet Union,Voskhod 1,1964,Vostok/Voskhod
+Konstantin Feoktistov,Soviet Union,Voskhod 1,1964,Vostok/Voskhod
+Yang Liwei,China,Shenzhou 5,2003,Shenzhou
+Scott Carpenter,United States,Mercury-Atlas 7,1962,Other / Unclassified
+"Virgil I. ""Gus"" Grissom",United States,Mercury-Redstone 4,1961,Other / Unclassified
+"Virgil I. ""Gus"" Grissom",United States,Gemini 3,1965,Other / Unclassified
+Yuri Gagarin,Soviet Union,Vostok 1,1961,Vostok/Voskhod
+Michael Melvill,United States,SpaceShipOne flight 15P,2004,Other / Unclassified
+Michael Melvill,United States,SpaceShipOne flight 16P,2004,Other / Unclassified
+Joseph A. Walker,United States,X-15 flight 90,1963,Other / Unclassified
+Joseph A. Walker,United States,X-15 flight 91,1963,Other / Unclassified
+Brian Binnie,United States,SpaceShipOne flight 17P,2004,Other / Unclassified
+Michael J. Smith,United States,STS-51-L,1986,Space Shuttle (STS)
+Gregory B. Jarvis,United States,STS-51-L,1986,Space Shuttle (STS)
+S. Christa McAuliffe,United States,STS-51-L,1986,Space Shuttle (STS)

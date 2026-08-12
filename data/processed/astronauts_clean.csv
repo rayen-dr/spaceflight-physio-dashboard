@@ -1,0 +1,571 @@
+name,country,gender,num_flights,parsed_flight_count,total_flight_days,duration_category,flights_raw
+Gennady Padalka,Russia,Man,5,5,878.48,Long (90+ days total),"Soyuz TM-28 (1998), Soyuz TMA-4 (2004), Soyuz TMA-14 (2009), Soyuz TMA-04M (2012), Soyuz TMA-16M (2015)"
+Yuri Malenchenko,Russia,Man,6,6,826.39,Long (90+ days total),"Soyuz TM-19 (1994), STS-106 (2000), Soyuz TMA-2 (2003), Soyuz TMA-11 (2007), Soyuz TMA-05M (2012), Soyuz TMA-19M (2015)"
+Sergei Krikalev,Russia,Man,6,6,803.4,Long (90+ days total),"Soyuz TM-7 (1988), Soyuz TM-12 (1991), STS-60 (1994), STS-88 (1998), Soyuz TM-31 (2000), Soyuz TMA-6 (2005)"
+Alexander Kaleri,Russia,Man,5,5,769.27,Long (90+ days total),"Soyuz TM-14 (1992), Soyuz TM-24 (1996), Soyuz TM-30 (2000), Soyuz TMA-3 (2003), Soyuz TMA-01M (2010)"
+Oleg Kononenko,Russia,Man,4,4,736.78,Long (90+ days total),"Soyuz TMA-12 (2008), Soyuz TMA-03M (2011), Soyuz TMA-17M (2015), Soyuz MS-11 (2018)"
+Oleg Novitskiy,Russia,Man,3,3,685.45,Long (90+ days total),"Soyuz TMA-06M (2012), Soyuz MS-03 (2016), Soyuz MS-18 (2021)"
+"Valeri Polyakov, M.D.",Russia,Man,2,2,678.69,Long (90+ days total),"Soyuz TM-6 (1988), Soyuz TM-18 (1994)"
+Fyodor Yurchikhin,Russia,Man,5,5,672.86,Long (90+ days total),"STS-112 (2002), Soyuz TMA-10 (2007), Soyuz TMA-19 (2010), Soyuz TMA-09M (2013), Soyuz MS-04 (2017)"
+Peggy Whitson,United States,Woman,3,3,665.94,Long (90+ days total),"STS-111 (2002), Soyuz TMA-11 (2007), Soyuz MS-03 (2016)"
+Anatoly Solovyev,Russia,Man,5,5,651.0,Long (90+ days total),"Soyuz TM-5 (1988), Soyuz TM-9 (1990), Soyuz TM-15 (1992), STS-71 (1995), Soyuz TM-26 (1997)"
+Viktor M. Afanasyev,Russia,Man,4,4,555.77,Long (90+ days total),"Soyuz TM-11 (1990), Soyuz TM-18 (1994), Soyuz TM-29 (1999), Soyuz TM-33 (2001)"
+Yury Usachov,Russia,Man,4,4,552.93,Long (90+ days total),"Soyuz TM-18 (1994), Soyuz TM-23 (1996), STS-101 (2000), STS-102 (2001)"
+Sergey Volkov,Russia,Man,3,3,547.93,Long (90+ days total),"Soyuz TMA-12 (2008), Soyuz TMA-02M (2011), Soyuz TMA-18M (2015)"
+Pavel Vinogradov,Russia,Man,3,3,546.94,Long (90+ days total),"Soyuz TM-26 (1997), Soyuz TMA-8 (2006), Soyuz TMA-08M (2013)"
+Aleksandr Skvortsov,Russia,Man,3,3,545.7,Long (90+ days total),"Soyuz TMA-18 (2010), Soyuz TMA-12M (2014), Soyuz MS-13 (2019)"
+Musa Manarov,Soviet Union,Man,2,2,541.02,Long (90+ days total),"Soyuz TM-4 (1987), Soyuz TM-11 (1990)"
+Oleg Skripochka,Russia,Man,3,3,536.16,Long (90+ days total),"Soyuz TMA-01M (2010), Soyuz TMA-20M (2016), Soyuz MS-15 (2019)"
+Jeffrey Williams,United States,Man,4,4,534.12,Long (90+ days total),"STS-101 (2000), Soyuz TMA-8 (2006), Soyuz TMA-16 (2009), Soyuz TMA-20M (2016)"
+Anton Shkaplerov,Russia,Man,3,3,533.23,Long (90+ days total),"Soyuz TMA-22 (2011), Soyuz TMA-15M (2014), Soyuz MS-07 (2017)"
+Mikhail Tyurin,Russia,Man,3,3,532.12,Long (90+ days total),"STS-105 (2001), Soyuz TMA-9 (2006), Soyuz TMA-11M (2013)"
+Thomas Pesquet,France,Man,2,2,527.68,Long (90+ days total),"Soyuz MS-03 (2016), SpaceX Crew-2 (2021)"
+Oleg Kotov,Russia,Man,3,3,526.21,Long (90+ days total),"Soyuz TMA-10 (2007), Soyuz TMA-17 (2009), Soyuz TMA-10M (2013)"
+Scott Kelly,United States,Man,4,4,521.44,Long (90+ days total),"STS-103 (1999), STS-118 (2007), Soyuz TMA-01M (2010), Soyuz TMA-16M (2015)"
+Robert S. Kimbrough,United States,Man,3,3,519.92,Long (90+ days total),"STS-126 (2008), Soyuz MS-02 (2016), SpaceX Crew-2 (2021)"
+Mikhail Korniyenko,Russia,Man,2,2,516.42,Long (90+ days total),"Soyuz TMA-18 (2010), Soyuz TMA-16M (2015)"
+Mark Vande Hei,United States,Man,2,2,512.24,Long (90+ days total),"Soyuz MS-06 (2017), Soyuz MS-18 (2021)"
+Alexander Viktorenko,Soviet Union,Man,4,4,489.07,Long (90+ days total),"Soyuz TM-3 (1987), Soyuz TM-8 (1989), Soyuz TM-14 (1992), Soyuz TM-20 (1994)"
+Anatoli Ivanishin,Russia,Man,3,3,476.2,Long (90+ days total),"Soyuz TMA-22 (2011), Soyuz MS-01 (2016), Soyuz MS-16 (2020)"
+Akihiko Hoshide,Japan,Man,3,3,471.66,Long (90+ days total),"STS-124 (2008), Soyuz TMA-05M (2012), SpaceX Crew-2 (2021)"
+Nikolai Budarin,Russia,Man,3,3,445.06,Long (90+ days total),"STS-71 (1995), Soyuz TM-27 (1998), STS-113 (2002)"
+Yuri Romanenko,Soviet Union,Man,3,3,430.76,Long (90+ days total),"Soyuz 26 (1977), Soyuz 38 (1980), Soyuz TM-2 (1987)"
+Alexander Volkov,Soviet Union,Man,3,3,391.49,Long (90+ days total),"Soyuz T-14 (1985), Soyuz TM-7 (1988), Soyuz TM-13 (1991)"
+Yuri Onufrienko,Russia,Man,2,2,389.62,Long (90+ days total),"Soyuz TM-23 (1996), STS-108 (2001)"
+Vladimir Titov,Soviet Union,Man,4,4,388.03,Long (90+ days total),"Soyuz T-8 (1983), Soyuz TM-4 (1987), STS-63 (1995), STS-86 (1997)"
+Vasili Tsibliyev,Russia,Man,2,2,381.66,Long (90+ days total),"Soyuz TM-17 (1993), Soyuz TM-25 (1997)"
+Valery Korzun,Russia,Man,2,2,381.65,Long (90+ days total),"Soyuz TM-24 (1996), STS-111 (2002)"
+Michael Fincke,United States,Man,3,3,381.63,Long (90+ days total),"Soyuz TMA-4 (2004), Soyuz TMA-13 (2008), STS-134 (2011)"
+Christopher Cassidy,United States,Man,3,3,377.74,Long (90+ days total),"STS-127 (2009), Soyuz TMA-08M (2013), Soyuz MS-16 (2020)"
+Aleksey Ovchinin,Russia,Man,2,2,374.81,Long (90+ days total),"Soyuz TMA-20M (2016), Soyuz MS-12 (2019)"
+Leonid Kizim,Soviet Union,Man,3,3,374.75,Long (90+ days total),"Soyuz T-3 (1980), Soyuz T-10 (1984), Soyuz T-15 (1986)"
+Michael Foale,United Kingdom,Man,6,6,374.72,Long (90+ days total),"STS-45 (1992), STS-56 (1993), STS-63 (1995), STS-84 (1997), STS-103 (1999), Soyuz TMA-3 (2003)"
+Aleksandr Serebrov,Soviet Union,Man,4,4,372.95,Long (90+ days total),"Soyuz T-7 (1982), Soyuz T-8 (1983), Soyuz TM-8 (1989), Soyuz TM-17 (1993)"
+Valery Ryumin,Soviet Union,Man,4,4,371.73,Long (90+ days total),"Soyuz 25 (1977), Soyuz 32 (1979), Soyuz 35 (1980), STS-91 (1998)"
+Donald Pettit,United States,Man,3,3,370.7,Long (90+ days total),"STS-113 (2002), STS-126 (2008), Soyuz TMA-03M (2011)"
+Sergei Avdeyev,Russia,Man,2,2,367.97,Long (90+ days total),"Soyuz TM-15 (1992), Soyuz TM-22 (1995)"
+Luca Parmitano,Italy,Man,2,2,366.7,Long (90+ days total),"Soyuz TMA-09M (2013), Soyuz MS-13 (2019)"
+Oleg Artemyev,Russia,Man,2,2,364.96,Long (90+ days total),"Soyuz TMA-12M (2014), Soyuz MS-08 (2018)"
+Vladimir Solovyov,Soviet Union,Man,2,2,361.95,Long (90+ days total),"Soyuz T-10 (1984), Soyuz T-15 (1986)"
+Alexander Gerst,Germany,Man,2,2,361.86,Long (90+ days total),"Soyuz TMA-13M (2014), Soyuz MS-09 (2018)"
+Sergey Nikolayevich Ryzhikov,Russia,Man,2,2,358.1,Long (90+ days total),"Soyuz MS-02 (2016), Soyuz MS-17 (2020)"
+Thomas Reiter,Germany,Man,2,2,350.23,Long (90+ days total),"Soyuz TM-22 (1995), STS-121 (2006)"
+Koichi Wakata,Japan,Man,4,4,347.36,Long (90+ days total),"STS-72 (1996), STS-92 (2000), STS-119 (2009), Soyuz TMA-11M (2013)"
+Pyotr Dubrov,Russia,Man,1,1,345.02,Long (90+ days total),Soyuz MS-18 (2021)
+Soichi Noguchi,Japan,Man,3,3,344.4,Long (90+ days total),"STS-114 (2005), Soyuz TMA-17 (2009), SpaceX Crew-1 (2020)"
+K. Megan McArthur,United States,Woman,2,2,343.84,Long (90+ days total),"STS-125 (2009), SpaceX Crew-2 (2021)"
+Talgat Musabayev,Kazakhstan,Man,3,3,341.41,Long (90+ days total),"Soyuz TM-19 (1994), Soyuz TM-27 (1998), Soyuz TM-32 (2001)"
+Andrei Borisenko,Russia,Man,2,2,337.37,Long (90+ days total),"Soyuz TMA-21 (2011), Soyuz MS-02 (2016)"
+Maksim Surayev,Russia,Man,2,2,334.51,Long (90+ days total),"Soyuz TMA-16 (2009), Soyuz TMA-13M (2014)"
+Michael S. Hopkins,United States,Man,2,2,333.54,Long (90+ days total),"Soyuz TMA-10M (2013), SpaceX Crew-1 (2020)"
+Aleksandr Misurkin,Russia,Man,2,2,333.48,Long (90+ days total),"Soyuz TMA-08M (2013), Soyuz MS-06 (2017)"
+Roman Romanenko,Russia,Man,2,2,333.46,Long (90+ days total),"Soyuz TMA-15 (2009), Soyuz TMA-07M (2012)"
+Vladimir Lyakhov,Soviet Union,Man,3,3,333.33,Long (90+ days total),"Soyuz 32 (1979), Soyuz T-9 (1983), Soyuz TM-6 (1988)"
+Aleksandr Samokutyayev,Russia,Man,2,2,331.47,Long (90+ days total),"Soyuz TMA-21 (2011), Soyuz TMA-14M (2014)"
+Shannon Walker,United States,Woman,2,2,330.57,Long (90+ days total),"Soyuz TMA-19 (2010), SpaceX Crew-1 (2020)"
+Yuri Gidzenko,Russia,Man,3,3,329.95,Long (90+ days total),"Soyuz TM-22 (1995), Soyuz TM-31 (2000), Soyuz TM-34 (2002)"
+Christina Koch,United States,Woman,1,1,328.58,Long (90+ days total),Soyuz MS-12 (2019)
+"Sunita ""Suni"" Williams",United States,Woman,2,2,321.72,Long (90+ days total),"STS-116 (2006), Soyuz TMA-05M (2012)"
+Paolo A. Nespoli,Italy,Man,3,3,313.11,Long (90+ days total),"STS-120 (2007), Soyuz TMA-20 (2010), Soyuz MS-05 (2017)"
+Gennadi Manakov,Russia,Man,2,2,309.89,Long (90+ days total),"Soyuz TM-10 (1990), Soyuz TM-16 (1993)"
+Aleksandr Pavlovich Aleksandrov,Soviet Union,Man,2,2,309.75,Long (90+ days total),"Soyuz T-9 (1983), Soyuz TM-3 (1987)"
+Joseph M. Acaba,United States,Man,3,3,305.02,Long (90+ days total),"STS-119 (2009), Soyuz TMA-04M (2012), Soyuz MS-06 (2017)"
+Sergei Ryazanski,Russia,Man,2,2,304.97,Long (90+ days total),"Soyuz TMA-10M (2013), Soyuz MS-05 (2017)"
+Kathleen Rubins,United States,Woman,2,2,300.06,Long (90+ days total),"Soyuz MS-01 (2016), Soyuz MS-17 (2020)"
+Andrew R. Morgan,United States,Man,1,1,271.27,Long (90+ days total),Soyuz MS-13 (2019)
+Gennady Strekalov,Soviet Union,Man,5,5,268.93,Long (90+ days total),"Soyuz T-3 (1980), Soyuz T-8 (1983), Soyuz T-11 (1984), Soyuz TM-10 (1990), Soyuz TM-21 (1995)"
+Michael Lopez-Alegria,United States,Man,4,4,258.95,Long (90+ days total),"STS-73 (1995), STS-92 (2000), STS-113 (2002), Soyuz TMA-9 (2006)"
+Timothy L. Kopra,United States,Man,2,2,244.04,Long (90+ days total),"STS-127 (2009), Soyuz TMA-19M (2015)"
+Viktor Savinykh,Soviet Union,Man,2,2,242.89,Long (90+ days total),"Soyuz T-4 (1981), Soyuz T-13 (1985)"
+Oleg Atkov,Soviet Union,Man,1,1,236.95,Long (90+ days total),Soyuz T-10 (1984)
+Carl Walz,United States,Man,4,4,230.54,Long (90+ days total),"STS-51 (1993), STS-65 (1994), STS-79 (1996), STS-108 (2001)"
+Leroy Chiao,United States,Man,4,4,229.36,Long (90+ days total),"STS-65 (1994), STS-72 (1996), STS-92 (2000), Soyuz TMA-5 (2004)"
+Daniel Bursch,United States,Man,4,4,226.93,Long (90+ days total),"STS-51 (1993), STS-68 (1994), STS-77 (1996), STS-108 (2001)"
+Richard Mastracchio,United States,Man,4,4,226.57,Long (90+ days total),"STS-106 (2000), STS-118 (2007), STS-131 (2010), Soyuz TMA-11M (2013)"
+William S. McArthur,United States,Man,4,4,224.93,Long (90+ days total),"STS-58 (1993), STS-74 (1995), STS-92 (2000), Soyuz TMA-7 (2005)"
+Andrew J. Feustel,United States,Man,3,3,224.39,Long (90+ days total),"STS-125 (2009), STS-134 (2011), Soyuz MS-08 (2018)"
+Shannon Lucid,United States,Woman,5,5,223.12,Long (90+ days total),"STS-51-G (1985), STS-34 (1989), STS-43 (1991), STS-58 (1993), STS-76 (1996)"
+Valentin Lebedev,Soviet Union,Man,2,2,219.25,Long (90+ days total),"Soyuz 13 (1973), Soyuz T-5 (1982)"
+Vladimir Kovalyonok,Soviet Union,Man,3,3,216.38,Long (90+ days total),"Soyuz 25 (1977), Soyuz 29 (1978), Soyuz T-4 (1981)"
+Terry Virts,United States,Man,2,2,213.45,Long (90+ days total),"STS-130 (2010), Soyuz TMA-15M (2014)"
+Kenneth Bowersox,United States,Man,5,5,212.59,Long (90+ days total),"STS-50 (1992), STS-61 (1993), STS-73 (1995), STS-82 (1997), STS-113 (2002)"
+"Michael R. Barratt, M.D.",United States,Man,2,2,211.49,Long (90+ days total),"Soyuz TMA-14 (2009), STS-133 (2011)"
+Anatoli Berezovoy,Soviet Union,Man,1,1,211.38,Long (90+ days total),Soyuz T-5 (1982)
+Susan Helms,United States,Woman,5,5,210.96,Long (90+ days total),"STS-54 (1993), STS-64 (1994), STS-78 (1996), STS-101 (2000), STS-102 (2001)"
+"Jean-Pierre Haigneré, EAC",France,Man,2,2,209.52,Long (90+ days total),"Soyuz TM-17 (1993), Soyuz TM-29 (1999)"
+Richard R. Arnold,United States,Man,2,2,208.56,Long (90+ days total),"STS-119 (2009), Soyuz MS-08 (2018)"
+Edward Lu,United States,Man,3,3,204.93,Long (90+ days total),"STS-84 (1997), STS-106 (2000), Soyuz TMA-2 (2003)"
+"Robert Thirsk, M.D.",Canada,Man,2,2,204.77,Long (90+ days total),"STS-78 (1996), Soyuz TMA-15 (2009)"
+Jessica Meir,United States,Woman,1,1,204.64,Long (90+ days total),Soyuz MS-15 (2019)
+John Phillips,United States,Man,3,3,203.72,Long (90+ days total),"STS-100 (2001), Soyuz TMA-6 (2005), STS-119 (2009)"
+André Kuipers,Netherlands,Man,2,2,203.66,Long (90+ days total),"Soyuz TMA-4 (2004), Soyuz TMA-03M (2011)"
+Anne McClain,United States,Woman,1,1,203.64,Long (90+ days total),Soyuz MS-11 (2018)
+David Saint-Jacques,Canada,Man,1,1,203.64,Long (90+ days total),Soyuz MS-11 (2018)
+Nick Hague,United States,Man,1,1,202.66,Long (90+ days total),Soyuz MS-12 (2019)
+James Voss,United States,Man,5,5,202.23,Long (90+ days total),"STS-44 (1991), STS-53 (1992), STS-69 (1995), STS-101 (2000), STS-102 (2001)"
+Salizhan Sharipov,Russia,Man,2,2,201.62,Long (90+ days total),"STS-89 (1998), Soyuz TMA-5 (2004)"
+Yuri Lonchakov,Russia,Man,3,3,200.78,Long (90+ days total),"STS-100 (2001), Soyuz TMA-1 (2002), Soyuz TMA-13 (2008)"
+Leonid Popov,Soviet Union,Man,3,3,200.61,Long (90+ days total),"Soyuz 35 (1980), Soyuz 40 (1981), Soyuz T-7 (1982)"
+Samantha Cristoforetti,Italy,Woman,1,1,199.7,Long (90+ days total),Soyuz TMA-15M (2014)
+Valery Tokarev,Russia,Man,2,2,199.46,Long (90+ days total),"STS-96 (1999), Soyuz TMA-7 (2005)"
+Gregory Chamitoff,United States,Man,2,2,198.75,Long (90+ days total),"STS-124 (2008), STS-134 (2011)"
+Frank De Winne,Belgium,Man,2,2,198.73,Long (90+ days total),"Soyuz TMA-1 (2002), Soyuz TMA-15 (2009)"
+Sergey Prokopyev,Russia,Man,1,1,196.53,Long (90+ days total),Soyuz MS-09 (2018)
+Serena Auñón-Chancellor,United States,Woman,1,1,196.53,Long (90+ days total),Soyuz MS-09 (2018)
+Steven Swanson,United States,Man,3,3,195.87,Long (90+ days total),"STS-117 (2007), STS-119 (2009), Soyuz TMA-12M (2014)"
+Ivan Vagner,Russia,Man,1,1,195.78,Long (90+ days total),Soyuz MS-16 (2020)
+Michael Fossum,United States,Man,3,3,193.79,Long (90+ days total),"STS-121 (2006), STS-124 (2008), Soyuz TMA-02M (2011)"
+Tracy Caldwell Dyson,United States,Woman,2,2,188.8,Long (90+ days total),"STS-118 (2007), Soyuz TMA-18 (2010)"
+Daniel Burbank,United States,Man,3,3,187.91,Long (90+ days total),"STS-106 (2000), STS-115 (2006), Soyuz TMA-22 (2011)"
+Timothy Peake,United Kingdom,Man,1,1,185.92,Long (90+ days total),Soyuz TMA-19M (2015)
+Sergey Kud-Sverchkov,Russia,Man,1,1,184.96,Long (90+ days total),Soyuz MS-17 (2020)
+Sergei Treshchov,Russia,Man,1,1,184.93,Long (90+ days total),STS-111 (2002)
+Aleksandr Lazutkin,Russia,Man,1,1,184.92,Long (90+ days total),Soyuz TM-25 (1997)
+Andreas Mogensen,Denmark,Man,1,1,181.99,Long (90+ days total),Soyuz TMA-18M (2015)
+Aydyn Aimbetov,Kazakhstan,Man,1,1,181.99,Long (90+ days total),Soyuz TMA-18M (2015)
+Catherine Coleman,United States,Woman,3,3,180.17,Long (90+ days total),"STS-73 (1995), STS-93 (1999), Soyuz TMA-20 (2010)"
+Karen Nyberg,United States,Woman,2,2,180.02,Long (90+ days total),"STS-124 (2008), Soyuz TMA-09M (2013)"
+Aleksandr Balandin,Soviet Union,Man,1,1,179.05,Long (90+ days total),Soyuz TM-9 (1990)
+Alexander Poleshchuk,Russia,Man,1,1,179.03,Long (90+ days total),Soyuz TM-16 (1993)
+Yelena Kondakova,Russia,Woman,2,2,178.4,Long (90+ days total),"Soyuz TM-20 (1994), STS-84 (1997)"
+Douglas Wheelock,United States,Man,2,2,178.4,Long (90+ days total),"STS-120 (2007), Soyuz TMA-19 (2010)"
+Barry Wilmore,United States,Man,2,2,178.04,Long (90+ days total),"STS-129 (2009), Soyuz TMA-14M (2014)"
+Ronald Garan,United States,Man,2,2,178.0,Long (90+ days total),"STS-124 (2008), Soyuz TMA-21 (2011)"
+Andrew Thomas,United States,Man,4,4,177.38,Long (90+ days total),"STS-77 (1996), STS-89 (1998), STS-102 (2001), STS-114 (2005)"
+Klaus-Dietrich Flade,Germany,Man,1,1,175.12,Long (90+ days total),Soyuz TM-13 (1991)
+Aleksandr Laveykin,Soviet Union,Man,1,1,174.14,Long (90+ days total),Soyuz TM-2 (1987)
+"David Wolf, M.D.",United States,Man,4,4,169.37,Long (90+ days total),"STS-58 (1993), STS-86 (1997), STS-112 (2002), STS-127 (2009)"
+Norishige Kanai,Japan,Man,1,1,168.22,Long (90+ days total),Soyuz MS-07 (2017)
+Scott D. Tingle,United States,Man,1,1,168.22,Long (90+ days total),Soyuz MS-07 (2017)
+Victor J. Glover,United States,Man,1,1,167.27,Long (90+ days total),SpaceX Crew-1 (2020)
+Satoshi Furukawa,Japan,Man,1,1,167.26,Long (90+ days total),Soyuz TMA-02M (2011)
+Yelena Serova,Russia,Woman,1,1,167.24,Long (90+ days total),Soyuz TMA-14M (2014)
+Clayton Anderson,United States,Man,2,2,166.88,Long (90+ days total),"STS-117 (2007), STS-131 (2010)"
+Chris Hadfield,Canada,Man,3,3,165.68,Long (90+ days total),"STS-74 (1995), STS-100 (2001), Soyuz TMA-07M (2012)"
+Gregory R. Wiseman,United States,Man,1,1,165.33,Long (90+ days total),Soyuz TMA-13M (2014)
+Timothy Creamer,United States,Man,1,1,163.23,Long (90+ days total),Soyuz TMA-17 (2009)
+"Thomas Marshburn, M.D.",United States,Man,2,2,161.29,Long (90+ days total),"STS-127 (2009), Soyuz TMA-07M (2012)"
+John Blaha,United States,Man,5,5,161.12,Long (90+ days total),"STS-29 (1989), STS-33 (1989), STS-43 (1991), STS-58 (1993), STS-79 (1996)"
+Dmitri Kondratyev,Russia,Man,1,1,159.3,Long (90+ days total),Soyuz TMA-20 (2010)
+William Shepherd,United States,Man,4,4,159.25,Long (90+ days total),"STS-27 (1988), STS-41 (1990), STS-52 (1992), Soyuz TM-31 (2000)"
+Kevin A. Ford,United States,Man,2,2,157.55,Long (90+ days total),"STS-128 (2009), Soyuz TMA-06M (2012)"
+Sandra Magnus,United States,Woman,3,3,157.36,Long (90+ days total),"STS-112 (2002), STS-126 (2008), STS-135 (2011)"
+Randolph Bresnik,United States,Man,2,2,149.51,Long (90+ days total),"STS-129 (2009), Soyuz MS-05 (2017)"
+Vladimir Dzhanibekov,Soviet Union,Man,5,5,145.67,Long (90+ days total),"Soyuz 27 (1978), Soyuz 39 (1981), Soyuz T-6 (1982), Soyuz T-12 (1984), Soyuz T-13 (1985)"
+Anatoly Artsebarsky,Soviet Union,Man,1,1,144.64,Long (90+ days total),Soyuz TM-12 (1991)
+Evgeny Tarelkin,Russia,Man,1,1,143.68,Long (90+ days total),Soyuz TMA-06M (2012)
+"Frank L. Culbertson, Jr.",United States,Man,3,3,143.62,Long (90+ days total),"STS-38 (1990), STS-51 (1993), STS-105 (2001)"
+Jerry Linenger,United States,Man,2,2,143.12,Long (90+ days total),"STS-64 (1994), STS-81 (1997)"
+Kjell N. Lindgren,United States,Man,1,1,141.67,Long (90+ days total),Soyuz TMA-17M (2015)
+Kimiya Yui,Japan,Man,1,1,141.67,Long (90+ days total),Soyuz TMA-17M (2015)
+"Norman Thagard, M.D.",United States,Man,5,5,140.56,Long (90+ days total),"STS-7 (1983), STS-51-B (1985), STS-30 (1989), STS-42 (1992), Soyuz TM-21 (1995)"
+Aleksandr Ivanchenkov,Soviet Union,Man,1,1,139.62,Long (90+ days total),Soyuz 29 (1978)
+Jack D. Fischer,United States,Man,1,1,135.76,Long (90+ days total),Soyuz MS-04 (2017)
+Georgi Grechko,Soviet Union,Man,3,3,134.86,Long (90+ days total),"Soyuz 17 (1975), Soyuz 26 (1977), Soyuz T-14 (1985)"
+Daniel Tani,United States,Man,2,2,131.75,Long (90+ days total),"STS-108 (2001), STS-120 (2007)"
+Sergei Revin,Russia,Man,1,1,124.99,Long (90+ days total),Soyuz TMA-04M (2012)
+Vladimir N. Dezhurov,Russia,Man,1,1,115.36,Long (90+ days total),Soyuz TM-21 (1995)
+Takuya Onishi,Japan,Man,1,1,115.1,Long (90+ days total),Soyuz MS-01 (2016)
+Garrett Reisman,United States,Man,2,2,107.14,Long (90+ days total),"STS-123 (2008), STS-132 (2010)"
+Robert L. Behnken,United States,Man,3,3,93.49,Long (90+ days total),"STS-123 (2008), STS-130 (2010), Crew Dragon Demo-2 (2020)"
+Douglas G. Hurley,United States,Man,3,3,92.44,Long (90+ days total),"STS-127 (2009), STS-135 (2011), Crew Dragon Demo-2 (2020)"
+Aleksandar Panayotov Aleksandrov,Bulgaria,Man,1,1,91.45,Long (90+ days total),Soyuz TM-5 (1988)
+Edward Gibson,United States,Man,1,1,84.05,Medium (14-90 days total),Skylab 4 (1973)
+William Pogue,United States,Man,1,1,84.05,Medium (14-90 days total),Skylab 4 (1973)
+Gerald P. Carr,United States,Man,1,1,84.05,Medium (14-90 days total),Skylab 4 (1973)
+Sergei Zalyotin,Russia,Man,2,2,83.69,Medium (14-90 days total),"Soyuz TM-30 (2000), Soyuz TMA-1 (2002)"
+Vitali Sevastyanov,Soviet Union,Man,2,2,80.68,Medium (14-90 days total),"Soyuz 9 (1970), Soyuz 18 (1975)"
+Petr Klimuk,Soviet Union,Man,3,3,78.76,Medium (14-90 days total),"Soyuz 13 (1973), Soyuz 18 (1975), Soyuz 30 (1978)"
+Owen Garriott,United States,Man,2,2,69.75,Medium (14-90 days total),"Skylab 3 (1973), STS-9 (1983)"
+Alan Bean,United States,Man,2,2,69.66,Medium (14-90 days total),"Apollo 12 (1969), Skylab 3 (1973)"
+"Léopold Eyharts, EAC",France,Man,2,2,68.9,Medium (14-90 days total),"Soyuz TM-27 (1998), STS-122 (2008)"
+James Wetherbee,United States,Man,6,6,68.35,Medium (14-90 days total),"STS-32 (1990), STS-52 (1992), STS-63 (1995), STS-86 (1997), STS-102 (2001), STS-113 (2002)"
+Jack Lousma,United States,Man,2,2,67.47,Medium (14-90 days total),"Skylab 3 (1973), STS-3 (1982)"
+Kent Rominger,United States,Man,5,5,66.96,Medium (14-90 days total),"STS-73 (1995), STS-80 (1996), STS-85 (1997), STS-96 (1999), STS-100 (2001)"
+Franklin Chang-Diaz,United States,Man,7,7,66.76,Medium (14-90 days total),"STS-61-C (1986), STS-34 (1989), STS-46 (1992), STS-60 (1994), STS-75 (1996), STS-91 (1998), STS-111 (2002)"
+Vladimir Vasyutin,Soviet Union,Man,1,1,64.91,Medium (14-90 days total),Soyuz T-14 (1985)
+Kenneth Cockrell,United States,Man,5,5,64.52,Medium (14-90 days total),"STS-56 (1993), STS-69 (1995), STS-80 (1996), STS-98 (2001), STS-111 (2002)"
+Steven Lindsey,United States,Man,5,5,62.94,Medium (14-90 days total),"STS-87 (1997), STS-95 (1998), STS-104 (2001), STS-121 (2006), STS-133 (2011)"
+Tamara E. Jernigan,United States,Woman,5,5,62.81,Medium (14-90 days total),"STS-40 (1991), STS-52 (1992), STS-67 (1995), STS-80 (1996), STS-96 (1999)"
+John Grunsfeld,United States,Man,5,5,59.63,Medium (14-90 days total),"STS-67 (1995), STS-81 (1997), STS-103 (1999), STS-109 (2002), STS-125 (2009)"
+Richard Linnehan,United States,Man,4,4,59.5,Medium (14-90 days total),"STS-78 (1996), STS-90 (1998), STS-109 (2002), STS-123 (2008)"
+"Scott Parazynski, M.D.",United States,Man,5,5,58.65,Medium (14-90 days total),"STS-66 (1994), STS-86 (1997), STS-95 (1998), STS-100 (2001), STS-120 (2007)"
+Curtis Brown,United States,Man,6,6,58.63,Medium (14-90 days total),"STS-47 (1992), STS-66 (1994), STS-77 (1996), STS-85 (1997), STS-95 (1998), STS-103 (1999)"
+Jerry L. Ross,United States,Man,7,7,58.04,Medium (14-90 days total),"STS-61-B (1985), STS-27 (1988), STS-37 (1991), STS-55 (1993), STS-74 (1995), STS-88 (1998), STS-110 (2002)"
+Marsha Ivins,United States,Woman,5,5,55.91,Medium (14-90 days total),"STS-32 (1990), STS-46 (1992), STS-62 (1994), STS-81 (1997), STS-98 (2001)"
+Mark Kelly,United States,Man,4,4,54.09,Medium (14-90 days total),"STS-108 (2001), STS-121 (2006), STS-124 (2008), STS-134 (2011)"
+"Story Musgrave, M.D.",United States,Man,6,6,53.41,Medium (14-90 days total),"STS-6 (1983), STS-51-F (1985), STS-33 (1989), STS-44 (1991), STS-61 (1993), STS-80 (1996)"
+Thomas D. Jones,United States,Man,4,4,53.03,Medium (14-90 days total),"STS-59 (1994), STS-68 (1994), STS-80 (1996), STS-98 (2001)"
+Kevin Kregel,United States,Man,4,4,52.77,Medium (14-90 days total),"STS-70 (1995), STS-78 (1996), STS-87 (1997), STS-99 (2000)"
+James Halsell,United States,Man,5,5,52.44,Medium (14-90 days total),"STS-65 (1994), STS-74 (1995), STS-83 (1997), STS-94 (1997), STS-101 (2000)"
+Boris Volynov,Soviet Union,Man,2,2,52.3,Medium (14-90 days total),"Soyuz 5 (1969), Soyuz 21 (1976)"
+Wendy Lawrence,United States,Woman,4,4,52.16,Medium (14-90 days total),"STS-67 (1995), STS-86 (1997), STS-91 (1998), STS-114 (2005)"
+Frederick Sturckow,United States,Man,4,4,51.4,Medium (14-90 days total),"STS-88 (1998), STS-105 (2001), STS-117 (2007), STS-128 (2009)"
+Scott Altman,United States,Man,4,4,50.53,Medium (14-90 days total),"STS-90 (1998), STS-106 (2000), STS-109 (2002), STS-125 (2009)"
+Jeffrey Hoffman,United States,Man,5,5,50.5,Medium (14-90 days total),"STS-51-D (1985), STS-35 (1990), STS-46 (1992), STS-61 (1993), STS-75 (1996)"
+Bonnie J. Dunbar,United States,Woman,5,5,50.35,Medium (14-90 days total),"STS-61-A (1985), STS-32 (1990), STS-50 (1992), STS-71 (1995), STS-89 (1998)"
+Ulf Merbold,Germany,Man,3,3,49.86,Medium (14-90 days total),"STS-9 (1983), STS-42 (1992), Soyuz TM-20 (1994)"
+Vitaliy Zholobov,Soviet Union,Man,1,1,49.27,Medium (14-90 days total),Soyuz 21 (1976)
+Janice Voss,United States,Woman,5,5,49.16,Medium (14-90 days total),"STS-57 (1993), STS-63 (1995), STS-83 (1997), STS-94 (1997), STS-99 (2000)"
+"Charles ""Pete"" Conrad",United States,Man,4,4,49.15,Medium (14-90 days total),"Gemini 5 (1965), Gemini 11 (1966), Apollo 12 (1969), Skylab 2 (1973)"
+Dominic Gorie,United States,Man,4,4,48.64,Medium (14-90 days total),"STS-91 (1998), STS-99 (2000), STS-108 (2001), STS-123 (2008)"
+Stephen Robinson,United States,Man,4,4,48.41,Medium (14-90 days total),"STS-85 (1997), STS-95 (1998), STS-114 (2005), STS-130 (2010)"
+Jing Haipeng,China,Man,3,3,47.76,Medium (14-90 days total),"Shenzhou 7 (2008), Shenzhou 9 (2012), Shenzhou 11 (2016)"
+Scott Horowitz,United States,Man,4,4,47.44,Medium (14-90 days total),"STS-75 (1996), STS-82 (1997), STS-101 (2000), STS-105 (2001)"
+Jean-Loup Chrétien,France,Man,3,3,44.47,Medium (14-90 days total),"Soyuz T-6 (1982), Soyuz TM-7 (1988), STS-86 (1997)"
+Peter Wisoff,United States,Man,4,4,44.34,Medium (14-90 days total),"STS-57 (1993), STS-68 (1994), STS-81 (1997), STS-92 (2000)"
+Joseph Tanner,United States,Man,4,4,43.55,Medium (14-90 days total),"STS-66 (1994), STS-82 (1997), STS-97 (2000), STS-115 (2006)"
+Claude Nicollier,Switzerland,Man,4,4,43.5,Medium (14-90 days total),"STS-46 (1992), STS-61 (1993), STS-75 (1996), STS-103 (1999)"
+James H. Newman,United States,Man,4,4,43.42,Medium (14-90 days total),"STS-51 (1993), STS-69 (1995), STS-88 (1998), STS-109 (2002)"
+Donald Thomas,United States,Man,4,4,43.34,Medium (14-90 days total),"STS-65 (1994), STS-70 (1995), STS-83 (1997), STS-94 (1997)"
+Michael Gernhardt,United States,Man,4,4,43.29,Medium (14-90 days total),"STS-69 (1995), STS-83 (1997), STS-94 (1997), STS-104 (2001)"
+Stephanie Wilson,United States,Woman,3,3,42.99,Medium (14-90 days total),"STS-121 (2006), STS-120 (2007), STS-131 (2010)"
+Terence Henricks,United States,Man,4,4,42.78,Medium (14-90 days total),"STS-44 (1991), STS-55 (1993), STS-70 (1995), STS-78 (1996)"
+"Brent W. Jett, Jr.",United States,Man,4,4,41.75,Medium (14-90 days total),"STS-72 (1996), STS-81 (1997), STS-97 (2000), STS-115 (2006)"
+Nancy J. Currie,United States,Woman,4,4,41.65,Medium (14-90 days total),"STS-57 (1993), STS-70 (1995), STS-88 (1998), STS-109 (2002)"
+Mark Polansky,United States,Man,3,3,41.45,Medium (14-90 days total),"STS-98 (2001), STS-116 (2006), STS-127 (2009)"
+Steven Smith,United States,Man,4,4,41.01,Medium (14-90 days total),"STS-68 (1994), STS-82 (1997), STS-103 (1999), STS-110 (2002)"
+Terrence Wilcutt,United States,Man,4,4,41.0,Medium (14-90 days total),"STS-68 (1994), STS-79 (1996), STS-89 (1998), STS-106 (2000)"
+Brian Duffy,United States,Man,4,4,40.73,Medium (14-90 days total),"STS-45 (1992), STS-57 (1993), STS-72 (1996), STS-92 (2000)"
+Kathryn Thornton,United States,Woman,4,4,40.72,Medium (14-90 days total),"STS-33 (1989), STS-49 (1992), STS-61 (1993), STS-73 (1995)"
+Ellen Ochoa,United States,Woman,4,4,40.65,Medium (14-90 days total),"STS-56 (1993), STS-66 (1994), STS-96 (1999), STS-110 (2002)"
+Christopher Ferguson,United States,Man,3,3,40.42,Medium (14-90 days total),"STS-115 (2006), STS-126 (2008), STS-135 (2011)"
+Stephen G. Bowen,United States,Man,3,3,40.42,Medium (14-90 days total),"STS-126 (2008), STS-132 (2010), STS-133 (2011)"
+Michael Baker,United States,Man,4,4,40.13,Medium (14-90 days total),"STS-43 (1991), STS-52 (1992), STS-68 (1994), STS-81 (1997)"
+Patrick Forrester,United States,Man,3,3,39.6,Medium (14-90 days total),"STS-105 (2001), STS-117 (2007), STS-128 (2009)"
+Richard Searfoss,United States,Man,3,3,39.14,Medium (14-90 days total),"STS-58 (1993), STS-76 (1996), STS-90 (1998)"
+Pamela Melroy,United States,Woman,3,3,38.84,Medium (14-90 days total),"STS-92 (2000), STS-112 (2002), STS-120 (2007)"
+Charles Precourt,United States,Man,4,4,38.8,Medium (14-90 days total),"STS-55 (1993), STS-71 (1995), STS-84 (1997), STS-91 (1998)"
+Linda Godwin,United States,Woman,4,4,38.26,Medium (14-90 days total),"STS-37 (1991), STS-59 (1994), STS-76 (1996), STS-108 (2001)"
+Robert D. Cabana,United States,Man,4,4,37.95,Medium (14-90 days total),"STS-41 (1990), STS-53 (1992), STS-65 (1994), STS-88 (1998)"
+Andrew M. Allen,United States,Man,3,3,37.68,Medium (14-90 days total),"STS-46 (1992), STS-62 (1994), STS-75 (1996)"
+Robert Curbeam,United States,Man,3,3,37.6,Medium (14-90 days total),"STS-85 (1997), STS-98 (2001), STS-116 (2006)"
+Aleksei Gubarev,Soviet Union,Man,2,2,37.48,Medium (14-90 days total),"Soyuz 17 (1975), Soyuz 28 (1978)"
+Rex Walheim,United States,Man,3,3,36.36,Medium (14-90 days total),"STS-110 (2002), STS-122 (2008), STS-135 (2011)"
+Eileen Collins,United States,Woman,4,4,36.3,Medium (14-90 days total),"STS-63 (1995), STS-84 (1997), STS-93 (1999), STS-114 (2005)"
+Robert L. Gibson,United States,Man,5,5,36.18,Medium (14-90 days total),"STS-41-B (1984), STS-61-C (1986), STS-27 (1988), STS-47 (1992), STS-71 (1995)"
+Roberto Vittori,Italy,Man,3,3,35.52,Medium (14-90 days total),"Soyuz TM-34 (2002), Soyuz TMA-6 (2005), STS-134 (2011)"
+James F. Reilly,United States,Man,3,3,35.44,Medium (14-90 days total),"STS-89 (1998), STS-104 (2001), STS-117 (2007)"
+Charles Hobaugh,United States,Man,3,3,35.39,Medium (14-90 days total),"STS-104 (2001), STS-108 (2001), STS-129 (2009)"
+Piers Sellers,United States,Man,3,3,35.38,Medium (14-90 days total),"STS-112 (2002), STS-121 (2006), STS-132 (2010)"
+Jerome Apt,United States,Man,4,4,35.3,Medium (14-90 days total),"STS-37 (1991), STS-47 (1992), STS-59 (1994), STS-79 (1996)"
+John Young,United States,Man,6,6,34.78,Medium (14-90 days total),"Gemini 3 (1965), Gemini 10 (1966), Apollo 10 (1969), Apollo 16 (1972), STS-1 (1981), STS-9 (1983)"
+John Casper,United States,Man,4,4,34.41,Medium (14-90 days total),"STS-36 (1990), STS-54 (1993), STS-62 (1994), STS-77 (1996)"
+Gregory Harbaugh,United States,Man,4,4,34.08,Medium (14-90 days total),"STS-39 (1991), STS-54 (1993), STS-71 (1995), STS-82 (1997)"
+Thomas Akers,United States,Man,4,4,34.03,Medium (14-90 days total),"STS-41 (1990), STS-49 (1992), STS-61 (1993), STS-79 (1996)"
+Stephen Oswald,United States,Man,3,3,33.94,Medium (14-90 days total),"STS-42 (1992), STS-56 (1993), STS-67 (1995)"
+Richard N. Richards,United States,Man,4,4,33.9,Medium (14-90 days total),"STS-28 (1989), STS-41 (1990), STS-50 (1992), STS-64 (1994)"
+Janet L. Kavandi,United States,Woman,3,3,33.84,Medium (14-90 days total),"STS-91 (1998), STS-99 (2000), STS-104 (2001)"
+Michael J. Bloomfield,United States,Man,3,3,33.46,Medium (14-90 days total),"STS-86 (1997), STS-97 (2000), STS-110 (2002)"
+Paul Weitz,United States,Man,2,2,33.05,Medium (14-90 days total),"Skylab 2 (1973), STS-6 (1983)"
+Daniel Brandenstein,United States,Man,4,4,32.96,Medium (14-90 days total),"STS-8 (1983), STS-51-G (1985), STS-32 (1990), STS-49 (1992)"
+Mark C. Lee,United States,Man,4,4,32.91,Medium (14-90 days total),"STS-30 (1989), STS-47 (1992), STS-64 (1994), STS-82 (1997)"
+Chen Dong,China,Man,1,1,32.27,Medium (14-90 days total),Shenzhou 11 (2016)
+Steven Hawley,United States,Man,5,5,32.11,Medium (14-90 days total),"STS-41-D (1984), STS-61-C (1986), STS-31 (1990), STS-82 (1997), STS-93 (1999)"
+Richard Hieb,United States,Man,3,3,32.02,Medium (14-90 days total),"STS-39 (1991), STS-49 (1992), STS-65 (1994)"
+Kalpana Chawla,United States,Woman,2,2,31.62,Medium (14-90 days total),"STS-87 (1997), STS-107 (2003)"
+Gregory H. Johnson,United States,Man,2,2,31.49,Medium (14-90 days total),"STS-123 (2008), STS-134 (2011)"
+Takao Doi,Japan,Man,2,2,31.45,Medium (14-90 days total),"STS-87 (1997), STS-123 (2008)"
+Vance Brand,United States,Man,4,4,31.09,Medium (14-90 days total),"Apollo-Soyuz Test Project (1975), STS-5 (1982), STS-41-B (1984), STS-35 (1990)"
+Viktor Gorbatko,Soviet Union,Man,3,3,30.53,Medium (14-90 days total),"Soyuz 7 (1969), Soyuz 24 (1977), Soyuz 37 (1980)"
+Daniel Barry,United States,Man,3,3,30.43,Medium (14-90 days total),"STS-72 (1996), STS-96 (1999), STS-105 (2001)"
+David M. Walker,United States,Man,4,4,30.19,Medium (14-90 days total),"STS-51-A (1984), STS-30 (1989), STS-53 (1992), STS-69 (1995)"
+"Rhea Seddon, M.D.",United States,Woman,3,3,30.1,Medium (14-90 days total),"STS-51-D (1985), STS-40 (1991), STS-58 (1993)"
+Steven R. Nagel,United States,Man,4,4,30.07,Medium (14-90 days total),"STS-51-G (1985), STS-61-A (1985), STS-37 (1991), STS-55 (1993)"
+Jim Lovell,United States,Man,4,4,29.79,Medium (14-90 days total),"Gemini 7 (1965), Gemini 12 (1966), Apollo 8 (1968), Apollo 13 (1970)"
+G. David Low,United States,Man,3,3,29.75,Medium (14-90 days total),"STS-32 (1990), STS-43 (1991), STS-57 (1993)"
+Carl Meade,United States,Man,3,3,29.68,Medium (14-90 days total),"STS-38 (1990), STS-50 (1992), STS-64 (1994)"
+Kathryn Hire,United States,Woman,2,2,29.67,Medium (14-90 days total),"STS-90 (1998), STS-130 (2010)"
+Kevin P. Chilton,United States,Man,3,3,29.43,Medium (14-90 days total),"STS-49 (1992), STS-59 (1994), STS-76 (1996)"
+"Jean-François Clervoy, EAC",France,Man,3,3,29.09,Medium (14-90 days total),"STS-66 (1994), STS-84 (1997), STS-103 (1999)"
+Marc Garneau,Canada,Man,3,3,29.08,Medium (14-90 days total),"STS-41-G (1984), STS-77 (1996), STS-97 (2000)"
+George D. Zamka,United States,Man,2,2,28.85,Medium (14-90 days total),"STS-120 (2007), STS-130 (2010)"
+Vladislav Volkov,Soviet Union,Man,2,2,28.83,Medium (14-90 days total),"Soyuz 7 (1969), Soyuz 11 (1971)"
+Guion Bluford,United States,Man,4,4,28.69,Medium (14-90 days total),"STS-8 (1983), STS-61-A (1985), STS-39 (1991), STS-53 (1992)"
+"Dafydd Williams, M.D.",Canada,Man,2,2,28.66,Medium (14-90 days total),"STS-90 (1998), STS-118 (2007)"
+Eric A. Boe,United States,Man,2,2,28.65,Medium (14-90 days total),"STS-126 (2008), STS-133 (2011)"
+Paul Lockhart,United States,Man,2,2,28.64,Medium (14-90 days total),"STS-111 (2002), STS-113 (2002)"
+"Ellen S. Baker, M.D.",United States,Woman,3,3,28.61,Medium (14-90 days total),"STS-34 (1989), STS-50 (1992), STS-71 (1995)"
+Charles Bolden,United States,Man,4,4,28.36,Medium (14-90 days total),"STS-61-C (1986), STS-31 (1990), STS-45 (1992), STS-60 (1994)"
+Nancy Jan Davis,United States,Woman,3,3,28.09,Medium (14-90 days total),"STS-47 (1992), STS-60 (1994), STS-85 (1997)"
+"Joseph Kerwin, M.D.",United States,Man,1,1,28.03,Medium (14-90 days total),Skylab 2 (1973)
+William Readdy,United States,Man,3,3,28.03,Medium (14-90 days total),"STS-42 (1992), STS-51 (1993), STS-79 (1996)"
+Alan G. Poindexter,United States,Man,2,2,27.88,Medium (14-90 days total),"STS-122 (2008), STS-131 (2010)"
+Michael R. Clifford,United States,Man,3,3,27.77,Medium (14-90 days total),"STS-53 (1992), STS-59 (1994), STS-76 (1996)"
+John D. Olivas,United States,Man,2,2,27.71,Medium (14-90 days total),"STS-117 (2007), STS-128 (2009)"
+Jeffrey Ashby,United States,Man,3,3,27.68,Medium (14-90 days total),"STS-93 (1999), STS-100 (2001), STS-112 (2002)"
+Heidemarie Stefanyshyn-Piper,United States,Woman,2,2,27.65,Medium (14-90 days total),"STS-115 (2006), STS-126 (2008)"
+Umberto Guidoni,Italy,Man,2,2,27.63,Medium (14-90 days total),"STS-75 (1996), STS-100 (2001)"
+Pierre Thuot,United States,Man,3,3,27.37,Medium (14-90 days total),"STS-36 (1990), STS-49 (1992), STS-62 (1994)"
+Richard O. Covey,United States,Man,4,4,26.88,Medium (14-90 days total),"STS-51-I (1985), STS-26 (1988), STS-38 (1990), STS-61 (1993)"
+Christer Fuglesang,Sweden,Man,2,2,26.73,Medium (14-90 days total),"STS-116 (2006), STS-128 (2009)"
+James M. Kelly,United States,Man,2,2,26.72,Medium (14-90 days total),"STS-102 (2001), STS-114 (2005)"
+Nicole Marie Passonno Stott,United States,Woman,2,2,26.67,Medium (14-90 days total),"STS-128 (2009), STS-133 (2011)"
+Lee Archambault,United States,Man,2,2,26.65,Medium (14-90 days total),"STS-117 (2007), STS-119 (2009)"
+Nicholas Patrick,United States,Man,2,2,26.62,Medium (14-90 days total),"STS-116 (2006), STS-130 (2010)"
+Charles Simonyi,Hungary,Man,2,2,26.6,Medium (14-90 days total),"Soyuz TMA-10 (2007), Soyuz TMA-14 (2009)"
+Michael Foreman,United States,Man,2,2,26.56,Medium (14-90 days total),"STS-123 (2008), STS-129 (2009)"
+Ronald Grabe,United States,Man,4,4,26.15,Medium (14-90 days total),"STS-51-J (1985), STS-30 (1989), STS-42 (1992), STS-57 (1993)"
+"Claudie Haigneré, EAC",France,Woman,2,2,25.6,Medium (14-90 days total),"Soyuz TM-24 (1996), Soyuz TM-33 (2001)"
+Ronald A. Parise,United States,Man,2,2,25.59,Medium (14-90 days total),"STS-35 (1990), STS-67 (1995)"
+Samuel T. Durrance,United States,Man,2,2,25.59,Medium (14-90 days total),"STS-35 (1990), STS-67 (1995)"
+Rick Husband,United States,Man,2,2,25.56,Medium (14-90 days total),"STS-96 (1999), STS-107 (2003)"
+B. Alvin Drew,United States,Man,2,2,25.54,Medium (14-90 days total),"STS-118 (2007), STS-133 (2011)"
+Kenneth Ham,United States,Man,2,2,25.53,Medium (14-90 days total),"STS-124 (2008), STS-132 (2010)"
+Julie Payette,Canada,Woman,2,2,25.33,Medium (14-90 days total),"STS-96 (1999), STS-127 (2009)"
+Donald McMonagle,United States,Man,3,3,25.23,Medium (14-90 days total),"STS-39 (1991), STS-54 (1993), STS-66 (1994)"
+Michael P. Anderson,United States,Man,2,2,24.76,Medium (14-90 days total),"STS-89 (1998), STS-107 (2003)"
+Michael T. Good,United States,Man,2,2,24.67,Medium (14-90 days total),"STS-125 (2009), STS-132 (2010)"
+Winston Scott,United States,Man,2,2,24.61,Medium (14-90 days total),"STS-72 (1996), STS-87 (1997)"
+Dominic A. Antonelli,United States,Man,2,2,24.58,Medium (14-90 days total),"STS-119 (2009), STS-132 (2010)"
+Charles Gemar,United States,Man,3,3,24.24,Medium (14-90 days total),"STS-38 (1990), STS-48 (1991), STS-62 (1994)"
+Georgi Dobrovolski,Soviet Union,Man,1,1,23.89,Medium (14-90 days total),Soyuz 11 (1971)
+Viktor Patsayev,Soviet Union,Man,1,1,23.89,Medium (14-90 days total),Soyuz 11 (1971)
+Michael Massimino,United States,Man,2,2,23.83,Medium (14-90 days total),"STS-109 (2002), STS-125 (2009)"
+"Chiaki Mukai, M.D.",Japan,Woman,2,2,23.65,Medium (14-90 days total),"STS-65 (1994), STS-95 (1998)"
+Stephen Frick,United States,Man,2,2,23.59,Medium (14-90 days total),"STS-110 (2002), STS-122 (2008)"
+Eugene Cernan,United States,Man,3,3,23.59,Medium (14-90 days total),"Gemini 9A (1966), Apollo 10 (1969), Apollo 17 (1972)"
+Robert Crippen,United States,Man,4,4,23.58,Medium (14-90 days total),"STS-1 (1981), STS-7 (1983), STS-41-C (1984), STS-41-G (1984)"
+Leland D. Melvin,United States,Man,2,2,23.57,Medium (14-90 days total),"STS-122 (2008), STS-129 (2009)"
+Kenneth D. Cameron,United States,Man,3,3,23.42,Medium (14-90 days total),"STS-37 (1991), STS-56 (1993), STS-74 (1995)"
+"Mario Runco, Jr.",United States,Man,3,3,22.96,Medium (14-90 days total),"STS-44 (1991), STS-54 (1993), STS-77 (1996)"
+David Scott,United States,Man,3,3,22.79,Medium (14-90 days total),"Gemini 8 (1966), Apollo 9 (1969), Apollo 15 (1971)"
+Hans Schlegel,Germany,Man,2,2,22.75,Medium (14-90 days total),"STS-55 (1993), STS-122 (2008)"
+Kathryn Sullivan,United States,Woman,3,3,22.2,Medium (14-90 days total),"STS-41-G (1984), STS-31 (1990), STS-45 (1992)"
+Brewster Shaw,United States,Man,3,3,22.2,Medium (14-90 days total),"STS-9 (1983), STS-61-B (1985), STS-28 (1989)"
+David Leestma,United States,Man,3,3,22.19,Medium (14-90 days total),"STS-41-G (1984), STS-28 (1989), STS-45 (1992)"
+Andriyan Nikolayev,Soviet Union,Man,2,2,21.64,Medium (14-90 days total),"Vostok 3 (1962), Soyuz 9 (1970)"
+Steven MacLean,Canada,Man,2,2,21.59,Medium (14-90 days total),"STS-52 (1992), STS-115 (2006)"
+"Thomas Kenneth ""Ken"" Mattingly II",United States,Man,3,3,21.19,Medium (14-90 days total),"Apollo 16 (1972), STS-4 (1982), STS-51-C (1985)"
+Thomas Patten Stafford,United States,Man,4,4,21.15,Medium (14-90 days total),"Gemini 6A (1965), Gemini 9A (1966), Apollo 10 (1969), Apollo-Soyuz Test Project (1975)"
+Valery Bykovsky,Soviet Union,Man,3,3,20.74,Medium (14-90 days total),"Vostok 5 (1963), Soyuz 22 (1976), Soyuz 31 (1978)"
+Oleg Makarov,Soviet Union,Man,4,4,20.74,Medium (14-90 days total),"Soyuz 12 (1973), Soyuz 18-1 (1975), Soyuz 27 (1978), Soyuz T-3 (1980)"
+David Hilmers,United States,Man,4,4,20.6,Medium (14-90 days total),"STS-51-J (1985), STS-26 (1988), STS-36 (1990), STS-42 (1992)"
+James Buchli,United States,Man,4,4,20.43,Medium (14-90 days total),"STS-51-C (1985), STS-61-A (1985), STS-29 (1989), STS-48 (1991)"
+Sidney Gutierrez,United States,Man,2,2,20.34,Medium (14-90 days total),"STS-40 (1991), STS-59 (1994)"
+Henry Hartsfield,United States,Man,3,3,20.12,Medium (14-90 days total),"STS-4 (1982), STS-41-D (1984), STS-61-A (1985)"
+John Lounge,United States,Man,3,3,20.1,Medium (14-90 days total),"STS-51-I (1985), STS-26 (1988), STS-35 (1990)"
+Carlos I. Noriega,Peru,Man,2,2,20.01,Medium (14-90 days total),"STS-84 (1997), STS-97 (2000)"
+Charles D. Walker,United States,Man,3,3,19.91,Medium (14-90 days total),"STS-41-D (1984), STS-51-D (1985), STS-61-B (1985)"
+Frank Borman,United States,Man,2,2,19.9,Medium (14-90 days total),"Gemini 7 (1965), Apollo 8 (1968)"
+Yuri Baturin,Russia,Man,2,2,19.74,Medium (14-90 days total),"Soyuz TM-28 (1998), Soyuz TM-32 (2001)"
+Svetlana Savitskaya,Soviet Union,Woman,2,2,19.71,Medium (14-90 days total),"Soyuz T-7 (1982), Soyuz T-12 (1984)"
+Reinhold Ewald,Germany,Man,1,1,19.69,Medium (14-90 days total),Soyuz TM-25 (1997)
+Roger K. Crouch,United States,Man,2,2,19.66,Medium (14-90 days total),"STS-83 (1997), STS-94 (1997)"
+Susan Still Kilrain,United States,Woman,2,2,19.66,Medium (14-90 days total),"STS-83 (1997), STS-94 (1997)"
+Gregory Linteris,United States,Man,2,2,19.66,Medium (14-90 days total),"STS-83 (1997), STS-94 (1997)"
+Niè Hǎishèng,China,Man,2,2,19.42,Medium (14-90 days total),"Shenzhou 6 (2005), Shenzhou 10 (2013)"
+Michael Coats,United States,Man,3,3,19.33,Medium (14-90 days total),"STS-41-D (1984), STS-29 (1989), STS-39 (1991)"
+Lloyd Hammond,United States,Man,2,2,19.26,Medium (14-90 days total),"STS-39 (1991), STS-64 (1994)"
+Robert Parker,United States,Man,2,2,19.24,Medium (14-90 days total),"STS-9 (1983), STS-35 (1990)"
+Byron Lichtenberg,United States,Man,2,2,19.21,Medium (14-90 days total),"STS-9 (1983), STS-45 (1992)"
+Mamoru Mohri,Japan,Man,2,2,19.17,Medium (14-90 days total),"STS-47 (1992), STS-99 (2000)"
+Frederick Gregory,United States,Man,3,3,18.96,Medium (14-90 days total),"STS-51-B (1985), STS-33 (1989), STS-44 (1991)"
+Pedro Duque,Spain,Man,2,2,18.78,Medium (14-90 days total),"STS-95 (1998), Soyuz TMA-3 (2003)"
+Mary Ellen Weber,United States,Woman,2,2,18.77,Medium (14-90 days total),"STS-70 (1995), STS-101 (2000)"
+Valeri Kubasov,Soviet Union,Man,3,3,18.75,Medium (14-90 days total),"Soyuz 6 (1969), Soyuz 19 (1975), Soyuz 36 (1980)"
+"Michel Tognini, EAC",France,Man,2,2,18.74,Medium (14-90 days total),"Soyuz TM-15 (1992), STS-93 (1999)"
+Pavel Popovich,Soviet Union,Man,2,2,18.68,Medium (14-90 days total),"Vostok 4 (1962), Soyuz 14 (1974)"
+"Bernard A. Harris, Jr.",United States,Man,2,2,18.26,Medium (14-90 days total),"STS-55 (1993), STS-63 (1995)"
+Frederick Hauck,United States,Man,3,3,18.13,Medium (14-90 days total),"STS-7 (1983), STS-51-A (1984), STS-26 (1988)"
+Charles Veach,United States,Man,2,2,18.1,Medium (14-90 days total),"STS-39 (1991), STS-52 (1992)"
+Yuri Glazkov,Soviet Union,Man,1,1,17.73,Medium (14-90 days total),Soyuz 24 (1977)
+Ronald Sega,United States,Man,2,2,17.52,Medium (14-90 days total),"STS-60 (1994), STS-76 (1996)"
+George Nelson,United States,Man,3,3,17.11,Medium (14-90 days total),"STS-41-C (1984), STS-61-C (1986), STS-26 (1988)"
+"Charles E. Brady, Jr., M.D.",United States,Man,1,1,16.91,Medium (14-90 days total),STS-78 (1996)
+Jean-Jacques Favier,France,Man,1,1,16.91,Medium (14-90 days total),STS-78 (1996)
+John O. Creighton,United States,Man,3,3,16.85,Medium (14-90 days total),"STS-51-G (1985), STS-36 (1990), STS-48 (1991)"
+William Gregory,United States,Man,1,1,16.63,Medium (14-90 days total),STS-67 (1995)
+Karol Bobko,United States,Man,3,3,16.09,Medium (14-90 days total),"STS-6 (1983), STS-51-D (1985), STS-51-J (1985)"
+Loren Shriver,United States,Man,3,3,16.09,Medium (14-90 days total),"STS-51-C (1985), STS-31 (1990), STS-46 (1992)"
+Bryan O'Connor,United States,Man,2,2,15.97,Medium (14-90 days total),"STS-61-B (1985), STS-40 (1991)"
+Charles Fullerton,United States,Man,2,2,15.95,Medium (14-90 days total),"STS-3 (1982), STS-51-F (1985)"
+William C. McCool,United States,Man,1,1,15.93,Medium (14-90 days total),STS-107 (2003)
+Ilan Ramon,Israel,Man,1,1,15.93,Medium (14-90 days total),STS-107 (2003)
+David M. Brown,United States,Man,1,1,15.93,Medium (14-90 days total),STS-107 (2003)
+"Laurel B. Clark, M.D.",United States,Woman,1,1,15.93,Medium (14-90 days total),STS-107 (2003)
+Albert Sacco,United States,Man,1,1,15.91,Medium (14-90 days total),STS-73 (1995)
+"Jay C. Buckey, M.D.",United States,Man,1,1,15.91,Medium (14-90 days total),STS-90 (1998)
+Frederick W. Leslie,United States,Man,1,1,15.91,Medium (14-90 days total),STS-73 (1995)
+James Pawelczyk,United States,Man,1,1,15.91,Medium (14-90 days total),STS-90 (1998)
+Maurizio Cheli,Italy,Man,1,1,15.74,Medium (14-90 days total),STS-75 (1996)
+Yuri Artyukhin,Soviet Union,Man,1,1,15.73,Medium (14-90 days total),Soyuz 14 (1974)
+Leonid Kadeniuk,Ukraine,Man,1,1,15.69,Medium (14-90 days total),STS-87 (1997)
+James Dutton,United States,Man,1,1,15.12,Medium (14-90 days total),STS-131 (2010)
+Dorothy M. Metcalf-Lindenburger,United States,Woman,1,1,15.12,Medium (14-90 days total),STS-131 (2010)
+Naoko Yamazaki,Japan,Woman,1,1,15.12,Medium (14-90 days total),STS-131 (2010)
+Richard Mullane,United States,Man,3,3,14.85,Medium (14-90 days total),"STS-41-D (1984), STS-27 (1988), STS-36 (1990)"
+John Herrington,United States,Man,1,1,14.78,Medium (14-90 days total),STS-113 (2002)
+Wang Yaping,China,Man,1,1,14.6,Medium (14-90 days total),Shenzhou 10 (2013)
+Zhang Xiaoguang,China,Man,1,1,14.6,Medium (14-90 days total),Shenzhou 10 (2013)
+Sally Ride,United States,Woman,2,2,14.32,Medium (14-90 days total),"STS-7 (1983), STS-41-G (1984)"
+James McDivitt,United States,Man,2,2,14.12,Medium (14-90 days total),"Gemini 4 (1965), Apollo 9 (1969)"
+"James ""Ox"" van Hoften",United States,Man,2,2,14.08,Medium (14-90 days total),"STS-41-C (1984), STS-51-I (1985)"
+"James P. Bagian, M.D.",United States,Man,2,2,14.08,Medium (14-90 days total),"STS-29 (1989), STS-40 (1991)"
+Dale Gardner,United States,Man,2,2,14.04,Medium (14-90 days total),"STS-8 (1983), STS-51-A (1984)"
+Martin J. Fettman,United States,Man,1,1,14.01,Medium (14-90 days total),STS-58 (1993)
+James Adamson,United States,Man,2,2,13.93,Short (<14 days total),"STS-28 (1989), STS-43 (1991)"
+Charles Camarda,United States,Man,1,1,13.9,Short (<14 days total),STS-114 (2005)
+José Hernández,United States,Man,1,1,13.87,Short (<14 days total),STS-128 (2009)
+"Philippe Perrin, EAC",France,Man,1,1,13.86,Short (<14 days total),STS-111 (2002)
+Eugene Trinh,United States,Man,1,1,13.81,Short (<14 days total),STS-50 (1992)
+Lawrence J. DeLucas,United States,Man,1,1,13.81,Short (<14 days total),STS-50 (1992)
+Kenneth Reightler,United States,Man,2,2,13.65,Short (<14 days total),"STS-48 (1991), STS-60 (1994)"
+Guy Gardner,United States,Man,2,2,13.34,Short (<14 days total),"STS-27 (1988), STS-35 (1990)"
+John Fabian,United States,Man,2,2,13.17,Short (<14 days total),"STS-7 (1983), STS-51-G (1985)"
+Richard Gordon,United States,Man,2,2,13.16,Short (<14 days total),"Gemini 11 (1966), Apollo 12 (1969)"
+Joseph P. Allen,United States,Man,2,2,13.08,Short (<14 days total),"STS-5 (1982), STS-51-A (1984)"
+Bruce Melnick,United States,Man,2,2,13.06,Short (<14 days total),"STS-41 (1990), STS-49 (1992)"
+"William E. Thornton, M.D.",United States,Man,2,2,13.05,Short (<14 days total),"STS-8 (1983), STS-51-B (1985)"
+Bruce McCandless II,United States,Man,2,2,13.02,Short (<14 days total),"STS-41-B (1984), STS-31 (1990)"
+Gregory C. Johnson,United States,Man,1,1,12.9,Short (<14 days total),STS-125 (2009)
+William Oefelein,United States,Man,1,1,12.86,Short (<14 days total),STS-116 (2006)
+Joan Higginbotham,United States,Woman,1,1,12.86,Short (<14 days total),STS-116 (2006)
+Paul W. Richards,United States,Man,1,1,12.83,Short (<14 days total),STS-102 (2001)
+Lisa Nowak,United States,Woman,1,1,12.78,Short (<14 days total),STS-121 (2006)
+Stanley G. Love,United States,Man,1,1,12.77,Short (<14 days total),STS-122 (2008)
+Barbara Morgan,United States,Woman,1,1,12.75,Short (<14 days total),STS-118 (2007)
+Liu Yang,China,Woman,1,1,12.64,Short (<14 days total),Shenzhou 9 (2012)
+Liu Wang,China,Man,1,1,12.64,Short (<14 days total),Shenzhou 9 (2012)
+Harrison Schmitt,United States,Man,1,1,12.58,Short (<14 days total),Apollo 17 (1972)
+Ronald Evans,United States,Man,1,1,12.58,Short (<14 days total),Apollo 17 (1972)
+Walter Schirra,United States,Man,3,3,12.3,Short (<14 days total),"Mercury-Atlas 8 (1962), Gemini 6A (1965), Apollo 7 (1968)"
+Alfred Worden,United States,Man,1,1,12.3,Short (<14 days total),Apollo 15 (1971)
+James Irwin,United States,Man,1,1,12.3,Short (<14 days total),Apollo 15 (1971)
+Robert Overmyer,United States,Man,2,2,12.1,Short (<14 days total),"STS-5 (1982), STS-51-B (1985)"
+Buzz Aldrin,United States,Man,2,2,12.08,Short (<14 days total),"Gemini 12 (1966), Apollo 11 (1969)"
+Robert Stewart,United States,Man,2,2,12.04,Short (<14 days total),"STS-41-B (1984), STS-51-J (1985)"
+Donald Williams,United States,Man,2,2,11.98,Short (<14 days total),"STS-51-D (1985), STS-34 (1989)"
+Richard Garriott,United States,Man,1,1,11.86,Short (<14 days total),Soyuz TMA-13 (2008)
+Bjarni Tryggvason,Canada,Man,1,1,11.85,Short (<14 days total),STS-85 (1997)
+Vladimir Aksyonov,Soviet Union,Man,2,2,11.84,Short (<14 days total),"Soyuz 22 (1976), Soyuz T-2 (1980)"
+Yuri Malyshev,Soviet Union,Man,2,2,11.83,Short (<14 days total),"Soyuz T-2 (1980), Soyuz T-11 (1984)"
+Igor Volk,Soviet Union,Man,1,1,11.8,Short (<14 days total),Soyuz T-12 (1984)
+Gerhard Thiele,Germany,Man,1,1,11.24,Short (<14 days total),STS-99 (2000)
+Michael Collins,United States,Man,2,2,11.09,Short (<14 days total),"Gemini 10 (1966), Apollo 11 (1969)"
+Charles Duke,United States,Man,1,1,11.08,Short (<14 days total),Apollo 16 (1972)
+Duane G. Carey,United States,Man,1,1,10.92,Short (<14 days total),STS-109 (2002)
+Mary L. Cleave,United States,Woman,2,2,10.92,Short (<14 days total),"STS-61-B (1985), STS-30 (1989)"
+Guy Laliberté,Canada,Man,1,1,10.89,Short (<14 days total),Soyuz TMA-16 (2009)
+Anatoly Filipchenko,Soviet Union,Man,2,2,10.88,Short (<14 days total),"Soyuz 7 (1969), Soyuz 16 (1974)"
+Yi So-yeon,South Korea,Woman,1,1,10.88,Short (<14 days total),Soyuz TMA-12 (2008)
+Anousheh Ansari,Iran,Woman,1,1,10.88,Short (<14 days total),Soyuz TMA-9 (2006)
+"Sheikh Muszaphar Shukor, M.D.",Malaysia,Man,1,1,10.88,Short (<14 days total),Soyuz TMA-11 (2007)
+Donn F. Eisele,United States,Man,1,1,10.84,Short (<14 days total),Apollo 7 (1968)
+Walter Cunningham,United States,Man,1,1,10.84,Short (<14 days total),Apollo 7 (1968)
+Lee Morin,United States,Man,1,1,10.82,Short (<14 days total),STS-110 (2002)
+"Robert Satcher, M.D.",United States,Man,1,1,10.8,Short (<14 days total),STS-129 (2009)
+Boris Morukov,Russia,Man,1,1,10.8,Short (<14 days total),STS-106 (2000)
+Mark Brown,United States,Man,2,2,10.39,Short (<14 days total),"STS-28 (1989), STS-48 (1991)"
+Rusty Schweickart,United States,Man,1,1,10.04,Short (<14 days total),Apollo 9 (1969)
+Ulrich Walter,Germany,Man,1,1,9.99,Short (<14 days total),STS-55 (1993)
+Vladimir Shatalov,Soviet Union,Man,3,3,9.91,Short (<14 days total),"Soyuz 4 (1969), Soyuz 8 (1969), Soyuz 10 (1971)"
+Yuri Shargin,Russia,Man,1,1,9.9,Short (<14 days total),Soyuz TMA-5 (2004)
+Robert Springer,United States,Man,2,2,9.9,Short (<14 days total),"STS-29 (1989), STS-38 (1990)"
+Mark Shuttleworth,South Africa,Man,1,1,9.89,Short (<14 days total),Soyuz TM-34 (2002)
+Marcos Pontes,Brazil,Man,1,1,9.89,Short (<14 days total),Soyuz TMA-8 (2006)
+Gregory Olsen,United States,Man,1,1,9.88,Short (<14 days total),Soyuz TMA-7 (2005)
+Nikolay Rukavishnikov,Soviet Union,Man,3,3,9.88,Short (<14 days total),"Soyuz 10 (1971), Soyuz 16 (1974), Soyuz 33 (1979)"
+Konstantin Kozeyev,Russia,Man,1,1,9.83,Short (<14 days total),Soyuz TM-33 (2001)
+"L. Gordon Cooper, Jr.",United States,Man,2,2,9.39,Short (<14 days total),"Mercury-Atlas 9 (1963), Gemini 5 (1965)"
+Joe H. Engle,United States,Man,2,2,9.35,Short (<14 days total),"STS-2 (1981), STS-51-I (1985)"
+John Glenn,United States,Man,2,2,9.11,Short (<14 days total),"Mercury-Atlas 6 (1962), STS-95 (1998)"
+Millie Hughes-Fulford,United States,Woman,1,1,9.09,Short (<14 days total),STS-40 (1991)
+"F. Drew Gaffney, M.D.",United States,Man,1,1,9.09,Short (<14 days total),STS-40 (1991)
+"Donald ""Deke"" Slayton",United States,Man,1,1,9.06,Short (<14 days total),Apollo-Soyuz Test Project (1975)
+Alan Shepard,United States,Man,2,2,9.01,Short (<14 days total),"Mercury-Redstone 3 (1961), Apollo 14 (1971)"
+Edgar Mitchell,United States,Man,1,1,9.0,Short (<14 days total),Apollo 14 (1971)
+Stuart Roosa,United States,Man,1,1,9.0,Short (<14 days total),Apollo 14 (1971)
+Aleksei Yeliseyev,Soviet Union,Man,3,3,8.93,Short (<14 days total),"Soyuz 5 (1969), Soyuz 8 (1969), Soyuz 10 (1971)"
+Dirk Frimout,Belgium,Man,1,1,8.92,Short (<14 days total),STS-45 (1992)
+Abdul Ahad Mohmand,Afghanistan,Man,1,1,8.85,Short (<14 days total),Soyuz TM-6 (1988)
+Joe Edwards,United States,Man,1,1,8.82,Short (<14 days total),STS-89 (1998)
+Neil Armstrong,United States,Man,2,2,8.58,Short (<14 days total),"Gemini 8 (1966), Apollo 11 (1969)"
+Richard Truly,United States,Man,2,2,8.31,Short (<14 days total),"STS-2 (1981), STS-8 (1983)"
+Paul Scully-Power,United States,Man,1,1,8.22,Short (<14 days total),STS-41-G (1984)
+Jon McBride,United States,Man,1,1,8.22,Short (<14 days total),STS-41-G (1984)
+"Roberta Bondar, M.D.",Canada,Woman,1,1,8.05,Short (<14 days total),STS-42 (1992)
+"Anna Lee Fisher, M.D.",United States,Woman,1,1,7.99,Short (<14 days total),STS-51-A (1984)
+Ronald McNair,United States,Man,1,1,7.97,Short (<14 days total),STS-41-B (1984)
+Franco Malerba,Italy,Man,1,1,7.97,Short (<14 days total),STS-46 (1992)
+Muhammed Faris,Syria,Man,1,1,7.96,Short (<14 days total),Soyuz TM-3 (1987)
+Loren Acton,United States,Man,1,1,7.95,Short (<14 days total),STS-51-F (1985)
+Anthony W. England,United States,Man,1,1,7.95,Short (<14 days total),STS-51-F (1985)
+John-David F. Bartoe,United States,Man,1,1,7.95,Short (<14 days total),STS-51-F (1985)
+Roy Bridges,United States,Man,1,1,7.95,Short (<14 days total),STS-51-F (1985)
+Karl Henize,United States,Man,1,1,7.95,Short (<14 days total),STS-51-F (1985)
+"Mae Jemison, M.D.",United States,Woman,1,1,7.94,Short (<14 days total),STS-47 (1992)
+Toktar Aubakirov,Soviet Union,Man,1,1,7.93,Short (<14 days total),Soyuz TM-13 (1991)
+Franz Viehböck,Austria,Man,1,1,7.93,Short (<14 days total),Soyuz TM-13 (1991)
+Vladimír Remek,Czechoslovakia,Man,1,1,7.93,Short (<14 days total),Soyuz 28 (1978)
+Anatoli Levchenko,Soviet Union,Man,1,1,7.92,Short (<14 days total),Soyuz TM-4 (1987)
+Dennis Tito,United States,Man,1,1,7.92,Short (<14 days total),Soyuz TM-32 (2001)
+Miroslaw Hermaszewski,Poland,Man,1,1,7.92,Short (<14 days total),Soyuz 30 (1978)
+Ivan Bella,Slovakia,Man,1,1,7.91,Short (<14 days total),Soyuz TM-29 (1999)
+Rakesh Sharma,India,Man,1,1,7.9,Short (<14 days total),Soyuz T-11 (1984)
+Helen Sharman,United Kingdom,Woman,1,1,7.88,Short (<14 days total),Soyuz TM-12 (1991)
+Hazza Al Mansouri,United Arab Emirates,Man,1,1,7.88,Short (<14 days total),Soyuz MS-15 (2019)
+Sigmund Jähn,East Germany,Man,1,1,7.87,Short (<14 days total),Soyuz 31 (1978)
+Jügderdemidiin Gürragchaa,Mongolia,Man,1,1,7.86,Short (<14 days total),Soyuz 39 (1981)
+Phạm Tuân,Vietnam,Man,1,1,7.86,Short (<14 days total),Soyuz 37 (1980)
+Bertalan Farkas,Hungary,Man,1,1,7.86,Short (<14 days total),Soyuz 36 (1980)
+Dumitru Prunariu,Romania,Man,1,1,7.86,Short (<14 days total),Soyuz 40 (1981)
+Arnaldo Tamayo Méndez,Cuba,Man,1,1,7.86,Short (<14 days total),Soyuz 38 (1980)
+"William Frederick Fisher, M.D.",United States,Man,1,1,7.1,Short (<14 days total),STS-51-I (1985)
+Patrick Baudry,France,Man,1,1,7.07,Short (<14 days total),STS-51-G (1985)
+Sultan bin Salman bin Abdulaziz Al Saud,Saudi Arabia,Man,1,1,7.07,Short (<14 days total),STS-51-G (1985)
+Reinhard Furrer,Germany,Man,1,1,7.03,Short (<14 days total),STS-61-A (1985)
+Ernst Messerschmid,Germany,Man,1,1,7.03,Short (<14 days total),STS-61-A (1985)
+Wubbo Ockels,Netherlands,Man,1,1,7.03,Short (<14 days total),STS-61-A (1985)
+Aleksei Leonov,Soviet Union,Man,2,2,7.02,Short (<14 days total),"Voskhod 2 (1965), Soyuz 19 (1975)"
+Don Lind,United States,Man,1,1,7.01,Short (<14 days total),STS-51-B (1985)
+Lodewijk van den Berg,United States,Man,1,1,7.01,Short (<14 days total),STS-51-B (1985)
+Taylor Wang,United States,Man,1,1,7.01,Short (<14 days total),STS-51-B (1985)
+Edwin J. Garn,United States,Man,1,1,7.0,Short (<14 days total),STS-51-D (1985)
+David Griggs,United States,Man,1,1,7.0,Short (<14 days total),STS-51-D (1985)
+Terry Hart,United States,Man,1,1,6.99,Short (<14 days total),STS-41-C (1984)
+Dick Scobee,United States,Man,1,1,6.99,Short (<14 days total),STS-41-C (1984)
+Thomas Hennen,United States,Man,1,1,6.95,Short (<14 days total),STS-44 (1991)
+Rodolfo Neri Vela,Mexico,Man,1,1,6.88,Short (<14 days total),STS-61-B (1985)
+Sherwood Spring,United States,Man,1,1,6.88,Short (<14 days total),STS-61-B (1985)
+William Anders,United States,Man,1,1,6.12,Short (<14 days total),Apollo 8 (1968)
+Robert J. Cenker,United States,Man,1,1,6.09,Short (<14 days total),STS-61-C (1986)
+Judith Resnik,United States,Woman,2,2,6.04,Short (<14 days total),"STS-41-D (1984), STS-51-L (1986)"
+"John ""Jack"" Swigert",United States,Man,1,1,5.95,Short (<14 days total),Apollo 13 (1970)
+Fred Haise,United States,Man,1,1,5.95,Short (<14 days total),Apollo 13 (1970)
+William B. Lenoir,United States,Man,1,1,5.09,Short (<14 days total),STS-5 (1982)
+Donald Peterson,United States,Man,1,1,5.02,Short (<14 days total),STS-6 (1983)
+"Sonny Carter, M.D.",United States,Man,1,1,5.0,Short (<14 days total),STS-33 (1989)
+Michael J. McCulley,United States,Man,1,1,4.99,Short (<14 days total),STS-34 (1989)
+Georgi Shonin,Soviet Union,Man,1,1,4.95,Short (<14 days total),Soyuz 6 (1969)
+Fei Junlong,China,Man,1,1,4.81,Short (<14 days total),Shenzhou 6 (2005)
+Edward White,United States,Man,1,1,4.08,Short (<14 days total),Gemini 4 (1965)
+William Pailes,United States,Man,1,1,4.07,Short (<14 days total),STS-51-J (1985)
+Georgi Beregovoi,Soviet Union,Man,1,1,3.95,Short (<14 days total),Soyuz 3 (1968)
+Gary Payton,United States,Man,1,1,3.06,Short (<14 days total),STS-51-C (1985)
+Ellison Onizuka,United States,Man,1,1,3.06,Short (<14 days total),STS-51-C (1985)
+Valentina Tereshkova,Soviet Union,Woman,1,1,2.95,Short (<14 days total),Vostok 6 (1963)
+Liu Boming,China,Man,1,1,2.85,Short (<14 days total),Shenzhou 7 (2008)
+Zhai Zhigang,China,Man,1,1,2.85,Short (<14 days total),Shenzhou 7 (2008)
+Vladimir Komarov,Soviet Union,Man,2,2,2.13,Short (<14 days total),"Voskhod 1 (1964), Soyuz 1 (1967)"
+Lev Dyomin,Soviet Union,Man,1,1,2.01,Short (<14 days total),Soyuz 15 (1974)
+Gennadi Sarafanov,Soviet Union,Man,1,1,2.01,Short (<14 days total),Soyuz 15 (1974)
+Vyacheslav Zudov,Soviet Union,Man,1,1,2.0,Short (<14 days total),Soyuz 23 (1976)
+Valery Rozhdestvensky,Soviet Union,Man,1,1,2.0,Short (<14 days total),Soyuz 23 (1976)
+Yevgeny Khrunov,Soviet Union,Man,1,1,1.99,Short (<14 days total),Soyuz 5 (1969)
+Vasili Lazarev,Soviet Union,Man,2,2,1.98,Short (<14 days total),"Soyuz 12 (1973), Soyuz 18-1 (1975)"
+Georgi Ivanov,Bulgaria,Man,1,1,1.96,Short (<14 days total),Soyuz 33 (1979)
+Pavel Belyayev,Soviet Union,Man,1,1,1.08,Short (<14 days total),Voskhod 2 (1965)
+Gherman Titov,Soviet Union,Man,1,1,1.05,Short (<14 days total),Vostok 2 (1961)
+"Boris Yegorov, M.D.",Soviet Union,Man,1,1,1.01,Short (<14 days total),Voskhod 1 (1964)
+Konstantin Feoktistov,Soviet Union,Man,1,1,1.01,Short (<14 days total),Voskhod 1 (1964)
+Yang Liwei,China,Man,1,1,0.89,Short (<14 days total),Shenzhou 5 (2003)
+Scott Carpenter,United States,Man,1,1,0.21,Short (<14 days total),Mercury-Atlas 7 (1962)
+"Virgil I. ""Gus"" Grissom",United States,Man,2,2,0.21,Short (<14 days total),"Mercury-Redstone 4 (1961), Gemini 3 (1965)"
+Yuri Gagarin,Soviet Union,Man,1,1,0.07,Short (<14 days total),Vostok 1 (1961)
+Michael Melvill,United States,Man,2,2,0.03,Short (<14 days total),"SpaceShipOne flight 15P (2004), SpaceShipOne flight 16P (2004)"
+Joseph A. Walker,United States,Man,2,2,0.02,Short (<14 days total),"X-15 flight 90 (1963), X-15 flight 91 (1963)"
+Brian Binnie,United States,Man,1,1,0.02,Short (<14 days total),SpaceShipOne flight 17P (2004)
+Michael J. Smith,United States,Man,1,1,0.0,Short (<14 days total),STS-51-L (1986)
+Gregory B. Jarvis,United States,Man,1,1,0.0,Short (<14 days total),STS-51-L (1986)
+S. Christa McAuliffe,United States,Woman,1,1,0.0,Short (<14 days total),STS-51-L (1986)
