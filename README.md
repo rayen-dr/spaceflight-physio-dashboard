@@ -114,10 +114,10 @@ streamlit run dashboard/app.py
 
 *(Screenshots to be added here once dashboard pages are built)*
 
-| Page | Screenshot |
-|---|---|
-| Home | `assets/images/home_screenshot.png` |
-| Bone Health | `assets/images/bone_screenshot.png` |
+| Page               | Screenshot                                        |
+|      ---           |              ---                                  |
+| Home               | `assets/images/home_screenshot.png`               |
+| Bone Health        | `assets/images/bone_screenshot.png`               |
 | Mission Comparison | `assets/images/mission_comparison_screenshot.png` |
 
 ## Results
