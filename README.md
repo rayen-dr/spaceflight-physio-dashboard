@@ -92,7 +92,7 @@ Each folder contains its own `README.md` explaining its contents in detail.
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/spaceflight-physio-dashboard.git
+git clone https://github.com/rayen-dr/spaceflight-physio-dashboard.git
 cd spaceflight-physio-dashboard
 
 # Create and activate a virtual environment
